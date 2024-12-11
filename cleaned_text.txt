@@ -1,0 +1,4832 @@
+Well Completion Report of AD#66 (ADAV) 
+    Tripura Forward Base, AAFB, Agartala                                                                                 Page ix 
+GENERAL WELL DATA 
+A. Location Details 
+Country 
+India 
+State/ District 
+Tripura, West Tripura 
+Village/ Mandal/Tehsil 
+Bishalgarh 
+Basin 
+A & AA Basin 
+Area/ Structure 
+Agartala Dome 
+Proposed as 
+(including EPMB/ File details) 
+B-AD-54 
+13th BEXB dt 22-23.12.23 
+Released as 
+(Including order no. & date) 
+ ADAV 
+(AAAB/BMG/Loc.Rel./30th EPMB/2021-22 dated 
+31.03.2022) 
+Modified order 
+(AAAB/BMG/EPMB/LRO_Mod/2022-23 dated 
+21.10.2022) 
+ Well No. (Well Name) 
+ AD#66 (ADAV) 
+WBS Element 
+AG.23E.PMLAD.AD#ADAV 
+ Well Type / Category 
+Exploratory / “B” 
+Expendable / Non-Expendable 
+Non-Expendable 
+ Well Profile 
+Inclined L-Profile 
+COORDINATES 
+Released_modified 
+(Sub-Surface) 
+ Latitude:  
+PROJECTION SYSTEM 
+WGS-84 
+Longitude:   
+Northing:  
+ Easting:  
+Staked 
+Latitude:    
+Longitude:  
+Northing:  
+Easting:  
+Actual (Final Surface Location) 
+ Latitude:   3°3‟11.831”N 
+LAMBERT26_90 
+Longitude: 1°6‟1.2”E 
+Northing: 72613.65 
+Easting: 6297.74 
+Seismic Reference 
+IL: 35 XL: 㤀97181  
+(Tripura Mega Merge vol) 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+    Tripura Forward Base, AAFB, Agartala                                                                                 Page x 
+Offset from Released Location 
+32.35m due 200.96°N  from  released location 
+Target Depth (MDKB/TVDSS) 
+ 3011m/2715m 
+Revised Target Depth, if any 
+(MDKB/TVDSS) 
+- 
+Drilled Depth (MDKB/TVDSS) 
+3011m/2715m 
+Formation/Member at TD 
+Upper Bhuban 
+Logger’s Depth (MDKB/TVDSS) 
+3016m/2720m 
+Planned Deviation (Inc./Azim.)  
+26.57⁰/ 21.51⁰ N at TD 
+Planned Drift  
+1094.12m at TD 
+Actual Deviation (Inc. /Azim.) 
+ 28.44⁰/ 20.63⁰ N at TD 
+Actual Drift 
+1101.6m at TD 
+ 
+B. 
+Objective: To explore hydrocarbon prospects in Upper Bhuban sands (AP-36). 
+ 
+ C. Rig Details 
+Rig Name/Type 
+E-1400-XIV/ Electrical 
+Departmental / Hired 
+Departmental 
+Mud Logging Services 
+Jindal Drilling & Industries Ltd (Unit no. 2K-1334) 
+ 
+D. Elevation 
+KB  
+47.62m 
+GL 
+40m 
+ 
+E. Block Details 
+Block Name 
+West Tripura  
+PEL / ML / NELP 
+Agartala Dome Extn-III PML 
+Partner (PI) 
+100% 
+Operator 
+ONGC 
+Area of Block (as on spud date) 
+60 Sq KM 
+Effective date 
+30.03.2011 to 29.03.2031 
+Discovery well 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+    Tripura Forward Base, AAFB, Agartala                                                                                 Page xi 
+F. 
+Chronology 
+ Well spudded-in on 
+08.05.2023 at 12:30 hrs 
+Drilling completed on   
+16.06.2023 at 17:45 hrs 
+Hermetically Tested on 
+Not carried out 
+Rig released on 
+26.06.2023 at 06:00 hrs 
+ 
+G. Conventional Core 
+ No conventional core was cut in this well. 
+ H. Production Testing Results 
+ No production testing was carried out in this well. 
+ I. Well Status 
+Abandoned without lowering Production casing 
+J.    Well Cost 
+Plan  
+: INR 
+Actual Cost : INR 
+ 
+ 
+Well Completion Report of AD#66 (ADAV) 
+   Tripura Forward Base, AAFB, Agartala                                                                                 Page 1 
+CHAPTER 1:  
+INTRODUCTION 
+1.1 Exploration History in Brief 
+Agartala Dome structure is the most prolific hydrocarbon accumulation in Tripura. It is a 
+very subtle dome-like feature lying between highly deformed Baramura structure and 
+Rokhia structure. With around 25 BCM in-place gas reserves, it is the single largest 
+field in Tripura. A total of 64 wells have been drilled in this structure. 8 pay sands have 
+been established in this field. AP-10B of Upper Bhuban is the most successful pay sand 
+established in the Agartala Dome field. It is a relict-feature which is formed by the action 
+of canyons eroding through the earlier deposited beds. The cuts thus formed were filled 
+up by transgressing shale, thus providing the lateral and top sealing to these relicts. 
+ Hence, relict features are an excellent exploration target. 
+ 1.1.1 Geological Set-up (Tectonics & Structure, Brief of Stratigraphy) 
+ Tectonic Setting of the Basin 
+The Assam and Assam Arakan Basin evolved as a result of rifting and drifting of the 
+Indian Plate towards north and then north east after the break up from Gondwanaland. 
+ Drifting of the Indian subcontinent during Cretaceous time led to subduction of Indian 
+plate margin below the Burmese plate. Oblique subduction of the Indian plate initiated 
+closing of the Neo-Tethys Ocean at northeast and then gradually progressed 
+southward. Intervening ocean became progressively narrower towards south. 
+ Subsequent to the closure of the Neo-Tethys Ocean along Arakan Yoma Suture, 
+collision of the continent plates resulted in the development of the Arakan-Burmese 
+Mountain Range. Further compression initiated thrusting and stack of thrust sheets 
+(Schuppen Belt) at north eastern part. At about 10 Ma, all the oceanic crust in the 
+Assam region at the margin of the Indian continent had subducted under the West 
+Burma Plate and initiated extremely oblique collision of the Indian and West Burma 
+Plates. The Assam-Arakan ophiolite belt marks the obducted oceanic crust during 
+collision and marks the boundary between Indian and Burmese plates.  
+ The entire Indo–Burmese orogenic belt represents an accretionary prism complex 
+migrating westward due to continuous eastward subduction of the Indian plate from 
+Late Cretaceous to end of Oligocene. The prism complex as a whole becomes younger 
+ 
+ 
+Well Completion Report of AD#66 (ADAV) 
+    Tripura Forward Base, AAFB, Agartala                                                                                 Page 2 
+in the westward direction (Hutchinson, 1989; Varga, 1997). The westward migration of 
+the prism complex is believed to have continued through the Tripura-Cachar Fold Belt 
+as the „Neogene Accretionary Prism‟ (Dasgupta and Nandy, 1995), which developed 
+above the obliquely subducting Indian lithosphere. Tripura-Cachar Fold Belt had 
+undergone severe folding, faulting and thrusting during different phases of post collision 
+orogeny, the intensity of which increases eastward. Initiation of structuration is 
+considered to have occurred during Mio-Pliocene probably after the deposition of 
+Tipam.  
+ Tectonically, the Tripura-Cachar Fold Belt comprises a series of sub-parallel elongated 
+en-echelon anticlines trending NNW-SSE with slight convexity towards west. The 
+anticlines are bounded by longitudinal reverse faults on one or both limbs (Kunte, 
+1989).  
+ In Tripura, through remote sensing studies and systematic geological mapping, 24 
+major structures (18 exposed and 6 concealed) have been identified. So far 18 
+structures have been probed. In total 11 structures (07 fields are put on production & 04 
+fields yet to be put on production) have established gas reserves in Bokabil, Upper 
+Bhuban, Middle Bhuban and Lower Bhuban reservoirs.  
+ In general the stratigraphy of the area is represented by thick clastic sequence of 
+Tertiary rocks. Mio-Pliocene and younger sediments are exposed on the surface. 
+ Proven gas producing reservoirs are established mainly within the arenaceous facies of 
+Bhuban formations. However, potential of Lower Bhuban, Renji & Barail sediments are 
+yet to be proved. 
+ Structural Analysis  
+Structural analysis of the Western Tripura sector was taken up through integration of 
+surface geological dataset with the subsurface dataset including seismic profiles and 
+drilled well data. The integrated G & G analysis reveals that the most important 
+structural element within the study area is the East Baramura Thrust, which has 
+vergence towards the east, and is thus a major back thrust (Fig. No. III.1). The 
+spectacularly long N-S trending Baramura structure has developed on the hanging wall 
+of this major back thrust. In the vicinity of the western limit of the study area, near the 
+international boundary with Bangladesh, the Rokhia structure is observed in seismic 
+sections to be developed on the East Rokhia Thrust, which also is a back thrust. In 
+ 
+ 
+Well Completion Report of AD#66 (ADAV) 
+    Tripura Forward Base, AAFB, Agartala                                                                                 Page 3 
+analogy to other similar fold thrust belts across the world, and in conformity with the 
+recent structural understanding in adjacent Cachar sector, the Rokhia and the 
+Baramura structures, in all probability, are genetically related and are envisaged to 
+have emerged as east verging splays from a deep seated regional decollement which is 
+present below the western Tripura sector and is progressively advancing into the 
+undisturbed Bangladesh foreland.  
+ The analysis of available data indicates that the Barjala-Sundulbari structural high trend 
+owes its origin to the development of a west verging fault (referred here as the West 
+Barjala Fault), which is antithetic to the East Baramura Thrust. This fault does not 
+emerge onto the surface and is therefore a blind fault. Splaying out from the East 
+Baramura Thrust, the West Barjala Fault has developed a blind antithetic fault of its own 
+- the East Baramura Bulge Fault – on which the Baramura Bulge structure has 
+developed. 
+ Generalized Stratigraphy 
+The oldest exposed stratigraphic unit in Tripura-Cachar region is Barail Group of 
+sediments of Oligocene age, unconformably overlain by the lithostratigraphic units 
+broadly subdivided into Miocene Surma Group, Pliocene Tipam Group and Pleistocene 
+Dupitila Group (Nandy et al. 1983). The lithology, mineralogy and sedimentary features 
+indicate that the Neogene sediments of Surma Group are argillaceous as well as 
+arenaceous sequences.  
+ The Surma Group of sediments is further subdivided into Bhubans and Bokabil. The 
+Bhuban is further subdivided into three litho-units viz. Lower, Middle and Upper Bhuban 
+depending upon the relative abundance of coarser and finer clastics (Evans 1930). 
+ Bokabil Formation of Late Miocene to Early Pliocene age overlies the Bhuban 
+formations. Lower and Upper Bhuban formations are more arenaceous in composition. 
+ The Middle Bhuban unit is dominantly argillaceous and composed mainly of mudstone, 
+shale, 
+shale-siltstone 
+alternation, 
+shale-sandstone 
+alternation. 
+ Surma 
+Group 
+succession is devoid of age-diagnostic fauna and marker horizons hence 
+biostratigraphy control is constrained. Surma Group is overlain by the dominantly 
+arenaceous Tipam Formation deposited in fluvial environment. Tipams are overlain by 
+the Dupitila and the Alluvium ranging from Pleistocene to Recent age. These are 
+exposed in the synclinal areas of Tripura. 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+    Tripura Forward Base, AAFB, Agartala                                                                                 Page 4 
+ 
+Figure-1: (Generalized Stratigraphy of Assam & Assam Arakan Basin; Mathur & Evan-
+1964, Chakraborty-1972, Deshpande et.al., 1993, Mathur-2001) 
+Depositional Regime  
+During the Middle Eocene to Early Miocene the collision of Indian plate with Burmese 
+plate and Tibetan plate, results in a major switch in sedimentation pattern over the then 
+Bengal Basin. The Tripura Fold Belt has undergone several stages of sedimentation. 
+ Surma Group (Bokabil and Bhuban formations) sediments are supposed to be 
+deposited in a deltaic setting (Holtrop and Keizer, 1970; Johnson and Alam, 1991) with 
+occasional marine transgressions (Seshavataram et.al, 1973 and 1975). Most of the 
+sand facies in Tripura are heterogeneous and lenticular in nature. The Tripura fold belt 
+has undergone four stages of basin development i) The sediments deposited during the 
+rifting of India from Gondwana. The synrift history is known only from the western 
+margin and northern margin (Dauki Fault area). These sediments rest unconformably 
+over the basement. The unconformity separating the breakup sediments from the post 
+breakup sedimentation is represented by Lower Cretaceous Rajmahal trap (Curiale et 
+al., 2002). ii). The sediments deposited during drifting consist of Cretaceous to Eocene 
+deposits overlying Upper Paleozoic and Mesozoic Gondwana graben deposits of 
+largely 
+continental 
+origin 
+(Alam, 
+1989). 
+iii). 
+ Early 
+collision 
+sedimentation 
+contemporaneous with continental collision (Oligocene-late Miocene), when initial uplift 
+of the Himalayan and Indo-Burmese ranges occurred. At this time, the proto-
+ 
+ 
+Well Completion Report of AD#66 (ADAV) 
+   Tripura Forward Base, AAFB, Agartala                                                                                 Page 5 
+Brahmaputra was depositing its sediment into the Cachar-Tripura area from the north-
+east. The north-westerly movement of India and the northerly movement of the West 
+Burma Plate caused the frontal fold belt of the Burmese accretionary prism to move 
+westwards (Robertson, 1999). Sediments deposited at this time in the eastern fold belt 
+and Surma range in thickness from 10-15 km and were deposited in deltaic regime with 
+marine incursions mainly in the Oligocene–Late Miocene (Curiale et al., 2002). iv). The 
+Late collision sediments include the Upper Bhuban and Bokabil units overlain by Tipam 
+and Dupitila units. The sedimentological studies indicate that the Middle Bhuban 
+sediments were deposited in pro-delta to delta front environment, whereas the Upper 
+Bhuban sediments in the area are believed to be deposited in the mouth bar to distal 
+bar to pro-delta regime (Dutta et.al.1993). The Bokabil sediments are deposited in delta 
+front environment. Gradually the depositional environment changed to fluvial conditions 
+during deposition of Tipam Formation. Uplift of the Shillong Plateau along the Dauki 
+Fault closed the direct path of Brahmaputra, forcing it northwards around the Shillong 
+Plateau to its present position at the end of the Miocene to Early Pliocene (Roy 
+Choudhury, 2010).  
+ Upper Bhuban  
+Many wells have penetrated upper Bhuban and it is also well exposed on the crest and 
+limbs of some of the anticlines in Cachar and Eastern Tripura. Sedimentological studies 
+indicate that, in general, the rock is composed of medium grained quartz wacke and 
+calcareous quartz wacke with thin beds of silty shale.  
+ Cores from Upper Bhuban from various wells of Tripura and Cachar show presence 
+channel sands with small bottom scours, cross laminations, rippled shale, current 
+ripples, parallel lamination. Moderate to high energy condition of deposition is inferred 
+from core studies of wells of Rokhia, Tichna, Agartala Dome in a delta slope 
+environment. Cores from few wells of Agartala Dome shows, dominance of shale facies 
+indicating low energy condition of deposition possibly in prodelta regime which is also 
+corroborated by presence of glauconite.  
+ Biostratigraphic and paleontological studies indicate that the sediments of Upper 
+Bhuban are of Middle Miocene age. The sedimentological and paleontological data, 
+sand percentage maps and lithofacies from logs indicated deltaic depositional 
+environment with tidal effect.  
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+    Tripura Forward Base, AAFB, Agartala                                                                                 Page 6 
+Bokabil Formation  
+ This is mainly an argillaceous sequence consisting of claystone and silty shale with thin 
+beds of medium grained sandstone and is well exposed on the crest and limbs of some 
+of the anticlines in Cachar and Tripura.  
+ Sedimentological studies of cores indicate that the sands are massive, laminated at 
+places with occasional streaks and stringers of shale pebbles and infrequent cross 
+bedding and possibly deposited as distributary mouth bar in deltaic environment. 
+ Biostratigraphic and paleontological studies indicate that the sediments of Bokabil 
+Formation are of Late Miocene age based on LAD of Apteodinium australiense. 
+ Considering these sedimentological and paleontological data, sand percentage maps 
+and lithology from log, the facies cum depositional model of Bokabil was prepared 
+showing deltaic environment with tidal effect.  
+ Tipam Formation  
+Tipam Formation consists of thick bedded, massive coarse grained sandstone with 
+minor clay and shale interbeds. In Tripura, in the core of the exposed anticlines, Tipam 
+is eroded and is preserved only in the flanks and synclinal areas. Whereas in majority of 
+the structures in Cachar, Tipams are totally eroded. The Sandstone is characterized by 
+lithic wacke with minor association of calcareous quartz wacke.  
+ Integrating sedimentological, paleontological data and various sand maps facies cum 
+depositional model of Tipam has been prepared with depositional environment inferred 
+as fluvial braided system. The majority of the fold-belt area has an N-S or NE-SW 
+trending arenaceous facies. 
+ 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+    Tripura Forward Base, AAFB, Agartala                                                                                 Page 7 
+1.2  Location Map 
+ 
+Figure-1.1: Location Map of ADAV 
+ 
+Figure-1.2: Satellite view of location ADAV w.r.t. nearby wells 
+ 
+ 
+Well Completion Report of AD#66 (ADAV) 
+    Tripura Forward Base, AAFB, Agartala                                                                                 Page 8 
+1.3  Structure Contour map 
+ 
+Figure-1.3: Time structure map close to AP-36 Pay sand 
+ 
+1.4  Seismic Lines 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure-1.4: Interpreted Seismic IL-385 and XL-1081 passing through ADAV. 
+ IL-385 
+XL-1081 
+E 
+W 
+S 
+N 
+S 
+W 
+E 
+A
+D
+N 
+ 
+ 
+Well Completion Report of AD#66 (ADAV) 
+    Tripura Forward Base, AAFB, Agartala                                                                                 Page 9 
+CHAPTER 2: 
+DRILLING HISTORY 
+2.1   Well Resume 
+2.1.1 26” Drilling Phase: 0-262m (Plan Days: 5 / Actual Days: 4.15) 
+ The location ADAV was spudded as AD#66 on 08.05.2023 at 12:30hrs. 12¼” pilot 
+hole was drilled up to 51m which was enlarged to 26‟‟ hole and further drilled up to 
+262m (Phase TD). 
+ Pre-Hydrated Bentonite Suspension mud was used during drilling of this phase with 
+mud weight 1.05-1.07 SG. 
+ 20” Casing and Cementation:  
+ The hole was thoroughly conditioned and total 21 joints of 20” casing (Leopard/X-
+56/133 PPF) were lowered and the casing was cemented keeping casing shoe at 
+261m (details in section 7.4). 
+ After WOC, well-head and BOP stack were installed. Pressure tested well-head at 
+500 psi, entire BOP stack at 300/2000 psi and found holding.  
+ 2.1.2 17½’’Drilling Phase: 262-1853m (Plan Days: 15/ Actual Days: 
+16.65) 
+17½‟‟ TCR (RR) bit was lowered and cement top was tagged at 249m. CIT was 
+carried out at 1000 psi surface pressure with 1.07 SG mud and found holding. 
+ Cement and casing shoe were drilled up to 261.5m and SIT was carried with 120 psi 
+surface pressure using 1.07 SG mud, obtained MWE: 1.39 SG. 17½‟‟ hole was drilled 
+to 266m and PIT was carried out with 100 psi surface pressure using 1.07 SG mud, 
+obtained MWE: 1.34 SG.  
+ The mud system was changed over to C/Lignite-CMC-CFD SYSTEM. The well was 
+kicked off at 300m and drilled directionally up to 1854m MDKB/ 1731.89mTVDKB 
+(Phase TD). This phase was drilled with C/Lignite-CMC-CFD mud of 1.07 -1.16 SG. 
+ 17 ½’’ Wire-line Logging: 
+Schlumberger logging services recorded the following logs through wire line: 
+1. PEX-HRLA-GPIT-GR-CALI-SP  
+ 
+(1855-261m) 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+    Tripura Forward Base, AAFB, Agartala                                                                                 Page 10 
+2. DSI-GR 
+ 
+ 
+ 
+ 
+ 
+(1844.28-261m) 
+13 3/8’’ Casing and Cementation: 
+ The hole was conditioned and 163 joints of 13⅜” casing (P-110, 68ppf, BTC) was 
+lowered keeping casing shoe at 1853m and float-collar at 1828.55m and cemented 
+with 1.95SG lead cement slurry with planned cement rise of 400m from casing shoe. 
+ After WOC, well head was installed and successfully tested at 300/2000psi. 13 ⅝” 
+BOP stack was installed and function tested. Ram BOPs were tested at 300/3000psi 
+and annular BOP was tested at 300/2800psi.  
+ 2.1.3 12 ¼″ Drilling Phase: 1853-2500m (Plan Days: 16 days/ Actual Days: 13.32  
+days) 
+12¼” TCR bit (RR) was run in and tagged cement top at 1828m. CIT was carried out 
+at 1500 psi surface pressure and found holding. Top plug, bottom plug, float collar, 
+cement and casing shoe were cleared till 1853.5m. SIT was carried out at 960 psi 
+surface pressure and obtained MWE: 1.55 SG. Fresh formation was drilled up to 
+1860m and PIT was carried out by applying surface pressure 835 psi, obtained 
+MWE: 1.50 SG. The 12 ¼” hole was further drilled down to 1867m and changed over 
+mud system to KCl-PHPA-Polyol-Polyamine system. Further 12 ¼” hole was drilled 
+down to 2500m (Phase TD). This phase was drilled with KCl-PHPA-Polyol-Polyamine 
+mud of 1.16 -1.20 SG. 
+ 12 ¼” Wire-line Logging: 
+After conditioning the well, Schlumberger logging services recorded the following 
+wire line logs: 
+1. PEX-HRLA-GPITGR-SP-CAL  
+(2490-1853.9m) 
+ 2. DSI-GR 
+ 
+ 
+ 
+ 
+(2489-1853m) 
+9 5/8’’ Casing and Cementation: 
+ The hole was conditioned and 191 joints of 9 ⅝” casing (P-110, 47 ppf, 4 BTC + 187 
+TSH) was lowered, keeping casing shoe at 2499m and float collar at 2475m and 
+cemented with 1.95 SG cement slurry with a planned cement rise of 500m.  
+After WOC, wellhead and BOP stacks were installed. Well-head was pressure tested 
+at 300/2400psi and found holding. Annular BOP and RAM BOPs were pressure 
+tested at 300/3500psi and 300/5000psi respectively. 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+    Tripura Forward Base, AAFB, Agartala                                                                                 Page 11 
+2.1.4 8 1/2” Drilling Phase: 2500-3011m (Plan Days: 22days/Actual Days: 14.61  
+days) 
+8 ½” TCR (RR) bit with slick BHA was run in and tagged float collar at 2475m. CIT 
+was carried out at 2400psi with 1.2 SG mud and found holding. Drilled float collar, 
+cement, shoe and 0.5m below shoe up to 2499.5m. SIT was carried out at 1640 psi 
+surface pressure and obtained MWE: 1.70 SG. The hole was further drilled down to 
+2505m and PIT was carried out by applying surface pressure up to 1474 psi, 
+obtained MWE: 1.65 SG. 8 ½” hole was further drilled down to 3011m MDKB/ 
+2762.39mTVDKB (TD). This phase was drilled with KCl-PHPA-Polyol-Polyamine mud 
+of 1.20 -1.24 SG. 
+ 8 ½’’ Wire-line Logging: 
+After conditioning the well, Schlumberger logging services recorded the following 
+wire line logs: 
+1 RTEX-MLL-DSL-SP-ORIT  
+ 
+(3014.40-2485m) 
+2 CN-ZDL-GR 
+ 
+ 
+ 
+(3012.27-2485m) 
+3 XMAC-GR   
+ 
+ 
+ 
+(3008.66-2485m) 
+4 SBT-VDL-GR-CCL  
+ 
+ 
+(2496-1825m) 
+5 ½” Casing and Cementation: 
+ After evaluation of wire line logs and the G&G data, no interesting zone was 
+identified from Hydrocarbon point of view. Therefore, the well was abandoned 
+permanently without lowering 5 ½” casing as per SOP. 
+ 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+    Tripura Forward Base, AAFB, Agartala                                                                                 Page 12 
+ 
+Figure- 2.1.1: Total drilling time break-up chart 
+ 
+Figure- 2.1.2: Total Non-productive time break-up chart 
+ 
+ 
+ 
+Well Completion Report of AD#66 (ADAV) 
+    Tripura Forward Base, AAFB, Agartala                                                                                 Page 13 
+2.2    Well Construction Diagram 
+Figure-2.2: Well construction diagram 
+Area/Structure
+Bishalgar/Agartala Dome
+Name of Rig
+E-1400-XIV
+Latitude
+23° 43‟01.831” N
+Rig Type
+Electrical
+Longitude
+91°16‟10.919” E
+Type of Well
+Exploratory
+State
+Tripura
+Category of Well
+B
+Elevation, KB
+47.62m
+Spud Date
+08.05.2023
+Water Depth
+40m
+Drilled Depth (m)
+3011m (2762.39m TVD)
+Target Depth 
+3011m (3011m TVD)
+ Status
+Well Construction Diagram
+AD#66 (ADAV)
+Abandoned without 5.5" casing
+Objective
+To explore hydrocarbon prospects in Upper Bhuban sands (AP-36).
+ Depth
+Age
+Casing
+Formation
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+1600
+1700
+1800
+1900
+2000
+2100
+2200
+2300
+2400
+2500
+2600
+2700
+2800
+Pliocene
+Late Miocene
+Middle Miocene
+20"  at 261m
+13⅜"  at 1853m
+9⅝''   at 2499m
+Openhole
+TD :3011m (TVD : 2762.39m) 
+Net Drift : 1101.64m)
+0
+200
+400
+600
+800
+1000
+Tipam
+Bokabil
+Upper Bhuban
+Bottom Abadonment 
+Cement Plug 2302-2532m
+9 5/8" casing retreived from 1200m
+Intermediate Abadonment 
+Cement Plug 1130-1230m
+Top Abadonment Cement 
+Plug 128-248m
+ 
+ 
+Well Completion Report of AD#66 (ADAV) 
+    Tripura Forward Base, AAFB, Agartala                                                                                 Page 14 
+CHAPTER 3: 
+FORMATION DATA ACQUISITION 
+(GEOLOGICAL &PETROPHYSICAL DATA) 
+3.1  Geological Data 
+3.1.1 Cutting Sample Data: 
+ Two sets of washed and dried samples were collected at 10m intervals from 260m to 
+1500m. Two sets of washed and dried samples at 5m interval, and one set at 10m 
+interval were collected from 1500m to 3011m (TD). The gross lithological description 
+of cutting samples is tabulated in the detailed lithological description and represented 
+in the form of Master Log (Enclosure-1). Interpreted lithology derived from electro-log 
+represented in the form of Composite log and is attached as Enclosure-2. 
+ 3.1.2 Hydrocarbon Shows: 
+ During drilling no hydrocarbon shows were observed. 
+ 3.1.3 Side Wall Cores: 
+ No sidewall core was attempted in this well. 
+ 3.1.4 Conventional Cores: 
+ No Conventional core was cut in this well. 
+ 3.1.5 MDT Samples 
+No MDT sample was taken in this well. 
+ 3.1.6 Formation Gas Shows during Drilling: 
+ No hydrocarbon shows were observed. 
+ 3.2 Petrophysical Data 
+3.2.1 Logs Recorded (Wireline/LWD/TLC) 
+ Following suites of logs were recorded in 17 ½”, 12 ¼” and 8 ½” section through 
+wire-line. 
+ 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+    Tripura Forward Base, AAFB, Agartala                                                                                 Page 15 
+Sl. 
+ No 
+Hole 
+Size 
+(”) 
+Date 
+Interval (m) 
+ Logs Recorded 
+Remarks 
+1 
+17 ½ 
+25.05.23 
+1855-261 
+PEX-HRLA-HNGS-
+GPIT-GR 
+SCHLUMBERGER 
+Driller‟s depth: 1854m, 
+Logger‟s depth: 1856m 
+Fluid type: C/Lignite-CMC-
+CFD 
+MW:1.16 SG; Visc:45 sec; 
+pH: 9; W/L: 6.5 cc 
+Rm: 0.83 Ωm @ 80.3 °F 
+Rmf: 0.73 Ωm @ 78.2 °F 
+Rmc: 1.4 Ωm @ 80.5 °F 
+BHT (°C): 63.2 
+2 
+1844.28-261 
+DSI-GR 
+3 
+12 ¼  
+07.06.23 
+2490-1853 
+PEX-HRLA-HNGS-
+GPIT-GR 
+SCHLUMBERGER 
+Driller‟s depth: 2500m, 
+Logger‟s depth: 2496m 
+Fluid type: KCl-PHPA-
+Polyol-Polyamine 
+MW:1.20 SG; Visc:50 sec; 
+pH: 9.5; W/L: 5.8 cc 
+Rm: 0.16 Ωm @ 84.3 ° F 
+Rmf: 0.13 Ωm @ 84.2 °F 
+Rmc: 0.75 Ωm @ 85.3°F 
+BHT (°C): 73.4 
+4 
+07.06.23 - 
+08.06.23 
+ 
+2489-1853 
+DSI-GR 
+5 
+8 ½  
+17.06.2023 
+2485-
+3014.40 
+RTEX-MLL-DSL-SP-
+ORIT 
+Baker Hughes 
+Driller‟s depth: 3011m, 
+Logger‟s depth: 3016m 
+Fluid type: KCl-PHPA-
+Polyol-Polyamine 
+MW:1.24 SG; Visc:54 sec; 
+pH: 9.0; W/L: 5.8 cc 
+Rm: 0.105 Ωm @ 85 °F 
+Rmf: 0.0709 Ωm @ 85 °F 
+Rmc: 0.1384 Ωm @ 85 °F 
+BHT (°C): 91.6 
+6 
+17.06.2023 
+2485-
+3012.27 
+CN-ZDL-GR 
+7 
+17.06.2023-
+18.06.2023 
+2485-
+3008.66 
+XMAC-GR 
+Cased Hole Logging 
+Sl. 
+ No 
+Casin
+g 
+Size 
+(”) 
+Date 
+Interval (m) 
+ Logs Recorded 
+Remarks 
+1 
+9 5/8  18.06.2023 
+2496-1825 
+SBT-VDL-GR-CCL 
+Baker Hughes 
+Cased hole logs 
+Fluid type: KCl-PHPA-
+Polyol-Polyamine 
+MW:1.24 SG; Visc:54 sec; 
+pH: 9.0; W/L: 5.8 cc 
+ 
+ 
+Well Completion Report of AD#66 (ADAV) 
+   Tripura Forward Base, AAFB, Agartala                                                                                 Page 16 
+3.2.2 Formation Pressure Tests & Samples (MDT/RCI): 
+ No MDT/RCI was carried out in this well. 
+ 3.2.3 Vertical Seismic Profile (VSP) 
+ No VSP was carried out due to residential structures close to the well. 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+    Tripura Forward Base, AAFB, Agartala                                                                                 Page 17 
+CHAPTER 4: 
+PORE PRESSURE ANALYSIS/ SPECIAL STUDIES 
+4.1 Pre-Drill Pressure Prediction 
+Pre-drill pore pressure analysis for the well AD#66(ADAV) was carried out based on the 
+nearby well data. The analysis inferred a near hydrostatic regime up to a depth of 
+3011m (TD). The maximum formation pressure predicted at TD is 1.10 SG.  
+ Pre-Drill Pressure Summary Plot   
+Figure-4.1: Pre-drill pore pressure plot of well AD#66(ADAV)
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+ 
+Page 18 
+ 
+4.2 Mud Logging Data  
+4.2.1 Composite Pressure Evaluation Plot 
+ 
+ 
+Figure-4.2: Composite Pressure Plot
+ 
+ 
+Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 19 
+4.2.2 Shale Density and Shale factor 
+Shale density, under normal compaction scenario, increases with depth. Any deviation 
+from this consistent trend may indicate existence of geopressure. The magnitude of the 
+bulk density change varies with the type and magnitude of the geopressure. Often, the 
+bulk density will decrease, but in some cases it may remain constant or continue to 
+increase but at a lower rate than the previous established trend.  
+ Shale factor is a measure of clay cation exchange capacity (CEC) represented as 
+milliequivalents (of a suitable ion) per hundred grams (of the compound). Various clay 
+types have different CEC‟s and CEC in general decrease as clays convert from 
+montmorillonite-rich to illite-rich with temperature (and thus with depth). Pure 
+montmorillonite clays have a CEC of approximately 100 meq/100g. Pure illites show no 
+swelling characteristics, but their CEC is generally between 10 and 40 meq/100g.  
+ In a geopressured zone, caused due to compaction disequilibrium, shale factor will 
+increase within the pressured zone as a result of restriction of dewatering of 
+montmorillonite/ smectite clay minerals. However, with depth if clays diagenesis occurs 
+from montmorillonite to illite, then shale factor will decrease within the pressure zone.  
+ Shale representative samples were selected so as to obtain the true shale density and 
+shale factor with minimum contaminations. Shale density and shale factor studies were 
+carried out at 10m intervals from 820m to 3011m.  
+ The shale density shows gradual increasing trend with depth and the values range from 
+2.0 to 2.61 gm/cc showing normal compaction trend.  
+ Shale factor plot shows a gradual decreasing trend with depth and the values range 
+from 7.0 to 4.6 meq/100cc. The overall trend indicates transformation of montmorillonite 
+to illite with increasing depth. 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 20 
+Figure-4.3: Shale Density & Shale Factor Plot 
+4.2.3 D-exponent and Sigma Plot 
+For similar lithology, D-exponent increases with depth, compaction, and differential 
+pressure at bottom. In a geo-pressured zone, compaction and differential pressure 
+decreases and is reflected by a decrease in d-exponent. Differential pressure is 
+dependent on mud density, as well as formation pore pressure. Therefore, any change 
+in the mud density used promotes an unwanted change in d-exponent. 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 21 
+D-exponent and sigma values were plotted against drilled depth from 262m to 3011m 
+(DD). The plots show a normal compaction trend from 262m to 3011m. 
+ Figure-4.4: D-exponent and Sigma Plot 
+ 
+ 
+ 
+Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 22 
+ 
+4.3 Recorded Formation Pressures 
+4.3.1 MDT Pressures 
+No MDT/RCI was recorded in this well.  
+ 4.3.2 Formation Pressure from Reservoir Studies 
+No Reservoir Studies were carried out in this well. 
+ 4.4 
+ Well Activity (Gain/Loss details) 
+ No well activity was encountered during drilling. 
+ 
+ 4.5 
+Pre-drill vs Post-drill Pore Pressure Analysis 
+Pre-drill pore pressure analysis for the well AD#66 (ADAV) was carried out based on 
+the nearby well data. The analysis inferred a hydrostatic regime upto a depth of 2670m. 
+ Thereafter the pore pressure gradient increases marginally attaining pressures 
+equivalent to 1.16SG at target depth i.e 3011m (MDKB) 
+ Post drill Pore pressure plot has been generated for the well AD#66 (ADAV) using 
+available drilling, geological, mud logging and wireline data. Pore pressure upto 3011m 
+was observed to be in the hydrostatic to near hydrostatic with 1.10 SG at TD. 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 23 
+ 
+ Figure-4.5: Post drill pore pressure plot of well AD#66(ADAV) 
+4.6 LOT/PIT/SIT Data 
+4.6.1 Below Casing Shoe 
+Depth 
+MDKB 
+(m) 
+Casing 
+Shoe 
+MDKB/
+TVDKB 
+(m) 
+Formation/
+Lithology 
+MW 
+used 
+(SG) 
+Leak of 
+test/ 
+Applied 
+Surface 
+Pressure
+(psi) 
+EMW 
+(SG) 
+ X-LOT 
+Pressure 
+(psi) 
+EMW 
+X-LOT 
+(SG) 
+ Remarks 
+266 
+261/ 
+261 
+Tipam/ 
+Sandstone 
+1.07 
+100 
+1.34 
+- 
+- 
+PIT 
+1860 
+1853/ 
+1732 
+Upper 
+Bhuban/ 
+1.16 
+835 
+1.5 
+- 
+- 
+PIT 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 24 
+Shale 
+2505 
+2499/ 
+2307 
+Upper 
+Bhuban/ 
+Shale 
+1.20 
+1474 
+1.65 
+- 
+- 
+PIT 
+4.6.2 Graph of PIT in 17 ½” hole (at 261m MD/ 261m TVD) 
+ Well Name 
+AD#66(ADAV) 
+Surface pressure (psi) 
+100 
+Area Name 
+Agartala Dome 
+TVD(m) 
+261.0 
+Rig Name 
+E-1400-XIV 
+Equivalent Mud Weight 
+1.34 
+Casing Size (inch) 
+20 
+Total Volume pumped (bbl) 
+135 
+Casing Shoe TVDKB (m) 
+261 
+Total Vol Flowed back (bbl) 
+135 
+Drilled Depth TVDKB(m) 
+266 
+Total Vol lost in Hole (bbl) 
+0 
+ Mud Weight 
+1.07 SG 
+Mud Type 
+PHBS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AD#66(ADAV)
+ Well Name
+AD#66(ADAV)
+Surface pressure(psi)
+100
+Area Name
+Agartala Dome
+TVD(m)
+261.0
+Rig Name
+E-1400-XIV
+Equivalent Mud Weight (SG)
+1.34
+Casing Size (inch)
+20
+Total Volume pumped (litre)
+135
+Casing Shoe TVDKB (m)
+261
+Total Vol Flowed back (ltr)
+135
+Drilled Depth TVDKB(m)
+266
+Total Vol lost in Hole (ltr)
+0
+Mud Weight (SG)
+1.07
+ 
+Mud Type
+PHBS
+Date of Test
+13.05.2023
+PIT of Well: 
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+150
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Volume (ltr)
+Pressure (psi)
+Time (Volume of mud pumped in borehole @50ltr/ min)
+Pump Pressure ( Psi)
+Volume (ltr)
+Shut-in
+Injection
+Bleed-off
+Surface pressure applied up to: 100psi
+PIT EMW: 1.34 SG
+ 
+ 
+Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 25 
+4.6.3 Graph of PIT in 12 ¼” hole (at 1853m MD/ 1732m TVD) 
+ 
+4.6.4 Graph of PIT in 8 ½” hole (at 2499m MD/ 2307m TVD)
+AD#66(ADAV)
+ Well Name
+AD#66(ADAV)
+Surface pressure(psi)
+835
+Area Name
+Agartala Dome
+TVD(m)
+1732.0
+Rig Name
+E-1400-XIV
+Equivalent Mud Weight (SG)
+1.50
+Casing Size (inch)
+13 3/8
+Total Volume pumped (litre)
+350
+Casing Shoe TVDKB (m)
+1732
+Total Vol Flowed back (ltr)
+350
+Drilled Depth MDKB(m)
+1860
+Total Vol lost in Hole (ltr)
+0
+Mud Weight (SG)
+1.16
+ 
+Mud Type
+C/Lignite-CMC-CFD
+Date of Test
+29.05.2023
+PIT of Well: 
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+0
+200
+400
+600
+800
+1000
+1200
+1400
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+ 19
+20
+Volume (ltr)
+Pressure (psi)
+Time (Volume of mud pumped in borehole @50ltr/ min)
+Pump Pressure ( Psi)
+Volume (ltr)
+Shut-in
+Injection
+Bleed-off
+Surface pressure applied up to: 835psi
+PIT EMW: 1.50 SG
+ 
+ 
+Well Completion Report of AD#66 (ADAV) 
+Tripura Forward Base, AAFB, Agartala 
+Page 26 
+CHAPTER 5: 
+GEOTHERMAL DATA 
+5.1  Flow-line Temperature Plot 
+The temperature of mud at flow line (FLT) was recorded from 600m till 3564m (Revised 
+TD). FLT increased gradually from 43°C at 260m to 73°C at 3011m (TD). No abrupt 
+change in flow line temperature was observed except during tripping. 
+ 
+ Figure-5.1: FLT Plot 
+ 
+ 
+Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 27 
+5.2 Borehole Temperature Data (While logging) 
+ Hole 
+Size (”) 
+Run  
+Logging Suite 
+Depth 
+MDKB/TV
+DKB (m) 
+BHT 
+(°F) 
+Time since 
+last 
+circulation 
+(hrs) 
+ Horner’s BHT 
+(°F) 
+17½ 
+1 
+PEX-HRLA-GPIT-
+GR-CALI-SP 
+1854/ 
+1734 
+145.79 
+12 
+- 
+12 ¼” 
+1 
+PEX-HRLA-GPIT-
+GR-CALI-SP 
+2500/ 
+2307 
+164.18 
+11.5 
+- 
+8 ½” 
+1 
+RTEX-MLL-DSL-
+SP-ORIT 
+3011/ 
+2762 
+192.88 
+11 
+202.28 
+2 
+CN-ZDL-GR 
+3011/ 
+2762 
+194.52 
+15.5 
+3 
+XMAC-GR 
+3011/ 
+2762 
+196.96 
+19.5 
+ 
+Horner Plot 
+Maximum recorded temperatures of different wireline log suites were plotted against the 
+log (T/(t+T)). Where „T‟ is the time since circulation of drilling fluid stopped, and „t‟ is the 
+total circulation time before wireline tool lowering. Horner temperature was deduced 
+based on BHT recorded in different log runs and time elapsed since last circulation. 
+ In 17 ½” and 12 ¼” open hole, only one BHT data from logging is available for each 
+phase. Thus Horner‟s BHT extrapolation could not be generated. 
+ In 8 ½” phase, open hole logs were used to derive BHT. Three successive runs run#1:  
+RTEX-MLL-DSL-SP-ORIT, run#2: CN-ZDL-GR and run#3: XMAC-GR were recorded up to 
+2762m TVDKB after 11 hrs, 15.5 hrs and 19.5 hrs since circulation stopped respectively 
+with the log head BHT recorded being 195.88oF, 194.52oF and 196.96oF. Horner‟s BHT 
+extrapolated generated a value of 202.28 oF at 2762mTVDKB (Average depth). 
+  
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 28 
+ 
+Figure-5.2: Horner’s Plot 
+5.3 Bottom Hole Temperature (Reservoir Studies) 
+ No reservoir studies were carried out in this well. 
+ 5.4 Geothermal Analysis 
+Maximum recorded log head temperatures wherever logs were recorded was used for 
+temperature gradient plot. The surface temperature was assumed to be 30°C.The BHT 
+value was 94.60°C at 2762m TVDKB during recording of 8 ½‟‟ open hole log. There was 
+only a single recorded temperature data each during recording of 17 ½” and 12 ¼” open 
+hole logs due to which Horner‟s corrected temperature could not be calculated. The 
+following temperature gradients were deduced from temperature data. The overall 
+temperature gradient gives a value of 2.34°C/100m. 
+ 
+Depth (m) 
+TVDKB 
+SBHT (°C) 
+ Gradient  
+(per 100m) 
+ Surface Temperature 
+0 
+30 
+0.00 
+Average TVD (m) 
+ 
+2762 
+94.60 
+2.34 
+Overall Temp 
+Gradient 
+ 
+2.34 
+ 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 29 
+ 
+Figure-5.3: Temperature gradient Plot 
+ 
+ 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 30 
+CHAPTER 6: 
+STRATIGRAPHY & CORRELATION 
+6.1 Stratigraphic Sequence Encountered 
+Age 
+Formation/ 
+Member 
+MDKB (m)/ 
+TVDKB(m) 
+ Thickne
+ss (m) 
+Gross Lithology 
+From 
+To 
+Pliocene to 
+Pliestocene 
+Tipam and 
+post Tipam Surface 
+ 825/ 
+806 
+806 
+Thick, massive, medium to coarse 
+grained, friable sand with minor 
+irregular clay and Claystone. 
+ Late 
+Miocene 
+Bokabil 
+ 825/ 
+806 
+1854/ 
+1732 
+926 
+Alternation 
+of 
+Claystone 
+and 
+Sandstone 
+with 
+Siltstone 
+intercalation in the upper section 
+and Sandstone with intercalation of 
+Shale &Siltstone in the lower section 
+Middle 
+Miocene 
+Upper 
+Bhuban 
+1854/ 
+1732 
+3011+/ 
+2762+ 
+1030+ 
+ Alternating fine to medium grain 
+Sandstone 
+and 
+Siltstone 
+with 
+subordinate Shale and silty shale 
+6.2 Prognosis vs Actual Stratigraphy  
+ 
+Formation 
+Pay Sand 
+GL (m) : 40 
+KB (m) : 47 
+Prognosed Top 
+Actual Top 
+Structural 
+Variance 
+MDKB/ 
+TVDKB/TVDSS 
+(m) 
+MDKB (m) 
+TVDSS (m) 
+Tipam 
+ 
+Surface 
+Surface 
+Surface 
+- 
+Bokabil 
+ 
+813/ 796/ 749 
+825 
+758 
+9m down 
+Upper 
+Bhuban 
+Top 
+1888/ 1758/ 1732 
+1854 
+1685 
+47m up 
+AP-36 
+2650/2439/2392 
+Not developed 
+- 
+AP-38 
+2883/2647/2600 
+2850/2619/2572 
+28m up 
+TD 
+ 
+3011/2762/2715 
+- 
+- 
+- 
+ 
+ 
+ 
+Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 31 
+  
+Figure-6.1: Prognosed vs Actual Plot 
+AP-38 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+ 
+Page 33
+ 
+ 
+CHAPTER 7: 
+DRILLING and MUD PARAMETERS 
+7.1 Drilling Parameters 
+Bit 
+No. 
+Bit Size 
+(”) 
+Make / IADC code/ Sl. No. / 
+Type 
+JETS 
+(x 1/32”) 
+Depth (m) 
+ Meters 
+Drilled 
+(m) 
+Bit on 
+Bottom 
+(Hours) 
+ROP 
+(min/m) 
+ WOB 
+(Tons) 
+RPM 
+SPM 
+SPP 
+(psi) 
+Discharge 
+(GPM) 
+ In 
+Out 
+1 
+12 ¼ 
+VBI/1-1-7/PIIA-0798/TCR 
+20X3, 
+18X1 
+0 
+51 
+51 
+3.5 
+ 
+ 
+40 
+100 
+114 
+230 
+2 
+26 
+VAREL/1-1-1/1665740/TCR 
+22X3 
+25 
+262 
+237 
+21 
+8-10 
+3-5 
+55 
+100-160 
+1150 
+600-950 
+3 
+17½ 
+Smith/1-1-5/RK1012/TCR 
+18X3 
+262 
+276 
+14 
+4 
+7-10 
+2-5 
+50 
+110-120 
+650-750 
+550-600 
+4 
+17½ 
+Smith/1-3-5/RK3006/TCR, 
+XRGG+CPS 
+22X2 
+18X1 
+16X1 
+276 
+1512 
+1236 
+98.3 
+5-12 
+3-19 
+50-55 
+120-145 1800-2300 
+750-850 
+5 
+17½ 
+Smith/6-1-6/SD1518/PDC 
+13X9 
+1512 
+1854 
+342 
+42.5 
+2-19 
+2-12 
+50-55 
+110-150 2100-2655 
+720-890 
+6 
+12 ¼” 
+Smith/1-1-7/PIIA-0798/TCR 
+18x3, 
+16x1 
+1854 
+1867 
+13 
+6 
+6-27 
+5-15 
+60-70 
+130-140 1950-2150 
+750-790 
+7 
+12 ¼” 
+Smith/7-1-6/JV3947/PDC 
+16x4, 
+14x3 
+1867 
+2500 
+633 
+81 
+3-15 
+2-17 
+40-60 
+110-140 1600-3000 
+500-700 
+8 
+8 ½” 
+Smith/1-1-7/--/TCR 
+20X3, 
+18X1 
+2500 
+2512 
+12 
+2 
+9-34 
+5-20 
+50-60 
+100-115 2000-2200 
+610-640 
+9 
+8 ½” 
+Baker Hughes/616/A273887/ 
+ PDC new 
+15x3, 
+16x3 
+2512 
+3011 
+499 
+57.3 
+1.5-19 
+2-16 
+50-55 
+90-100 
+2200-2650 
+450-550 
+ 
+ 
+ 
+Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 34 
+7.2 Deviation Data (TOTCO) 
+  No TOTCO data was recorded. 
+ 7.3 Deviation Data (Inclination Survey& Diagram) 
+ The well was drilled as an inclined („L‟ profile) well. The deviation was carried out by Al-
+Mansoori at 17 ½”, 12 ¼” & 8 ½” sections. 
+ MDKB 
+(m) 
+Angle 
+(◦) 
+Azi-
+muth 
+(◦) 
+TVDKB 
+(m) 
+TVDSS 
+(m) 
+ N-S 
+(m) 
+E-W 
+(m) 
+Net 
+Drift 
+(m) 
+Net 
+Dir 
+(m) 
+VS(m) 
+0.00 
+0.00 
+0.00 
+0.00 
+-47.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+297.47 
+0.88 
+36.00 
+297.46 
+250.46 
+2.17 
+0.71 
+2.28 
+18.00 
+0.01 
+325.80 
+2.80 
+24.50 
+325.78 
+278.78 
+2.96 
+1.16 
+3.18 
+21.48 
+0.02 
+354.59 
+4.70 
+25.40 
+354.50 
+307.50 
+4.67 
+1.96 
+5.06 
+22.77 
+0.09 
+383.20 
+6.60 
+21.60 
+382.98 
+335.98 
+7.25 
+3.08 
+7.88 
+23.03 
+0.22 
+411.83 
+7.74 
+21.86 
+411.38 
+364.38 
+10.57 
+4.40 
+11.45 
+22.63 
+0.45 
+440.46 
+8.88 
+21.42 
+439.71 
+392.71 
+14.41 
+5.93 
+15.59 
+22.36 
+0.75 
+468.87 
+9.67 
+22.04 
+467.75 
+420.75 
+18.67 
+7.63 
+20.17 
+22.22 
+1.12 
+497.37 
+10.99 
+23.62 
+495.79 
+448.79 
+23.38 
+9.61 
+25.28 
+22.34 
+1.58 
+526.77 
+11.90 
+22.90 
+524.60 
+477.60 
+28.74 
+11.91 
+31.11 
+22.52 
+2.17 
+554.35 
+13.40 
+21.60 
+551.51 
+504.51 
+34.33 
+14.20 
+37.15 
+22.47 
+2.84 
+582.60 
+14.42 
+21.86 
+578.94 
+531.94 
+40.64 
+16.71 
+43.94 
+22.36 
+3.66 
+610.87 
+16.00 
+21.16 
+606.22 
+559.22 
+47.54 
+19.43 
+51.36 
+22.23 
+4.65 
+639.71 
+18.11 
+21.60 
+633.79 
+586.79 
+55.41 
+22.52 
+59.81 
+22.11 
+5.92 
+669.44 
+19.03 
+22.74 
+661.97 
+614.97 
+64.18 
+26.09 
+69.28 
+22.12 
+7.47 
+697.16 
+20.20 
+22.40 
+688.08 
+641.08 
+72.77 
+29.66 
+78.59 
+22.17 
+9.08 
+725.65 
+21.70 
+21.40 
+714.69 
+667.69 
+82.23 
+33.46 
+88.77 
+22.14 
+10.96 
+754.21 
+22.40 
+21.51 
+741.16 
+694.16 
+92.20 
+37.38 
+99.49 
+22.07 
+13.05 
+782.60 
+24.31 
+21.86 
+767.22 
+720.22 
+102.66 
+41.54 
+110.75 
+22.03 
+15.38 
+810.36 
+25.80 
+23.01 
+792.37 
+745.37 
+113.53 
+46.03 
+122.50 
+22.07 
+17.99 
+838.76 
+25.41 
+23.27 
+817.98 
+770.98 
+124.81 
+50.85 
+134.78 
+22.17 
+20.78 
+867.01 
+25.36 
+21.95 
+843.50 
+796.50 
+135.99 
+55.51 
+146.89 
+22.20 
+23.51 
+896.54 
+25.60 
+21.60 
+870.16 
+823.16 
+147.79 
+60.22 
+159.59 
+22.17 
+26.38 
+925.18 
+26.90 
+21.70 
+895.85 
+848.85 
+159.57 
+64.89 
+172.26 
+22.13 
+29.33 
+953.39 
+26.55 
+22.00 
+921.04 
+874.04 
+171.34 
+69.61 
+184.94 
+22.11 
+32.35 
+981.92 
+26.00 
+22.20 
+946.63 
+899.63 
+183.04 
+74.37 
+197.57 
+22.11 
+35.29 
+1009.96 
+25.63 
+21.34 
+971.87 
+924.87 
+194.38 
+78.89 
+209.78 
+22.09 
+38.09 
+1038.40 
+26.51 
+20.46 
+997.41 
+950.41 
+206.06 
+83.35 
+222.28 
+22.02 
+40.99 
+1067.01 
+26.33 
+21.34 
+1023.04 
+976.04 
+217.95 
+87.89 
+235.01 
+21.96 
+43.97 
+1095.82 
+26.00 
+21.25 
+1048.89 
+1001.89 
+229.79 
+92.51 
+247.71 
+21.93 
+46.93 
+1124.73 
+26.60 
+20.20 
+1074.81 
+1027.81 
+241.77 
+97.04 
+260.52 
+21.87 
+49.92 
+1153.06 
+26.11 
+20.28 
+1100.20 
+1053.20 
+253.57 
+101.39 
+273.09 
+21.79 
+52.86 
+1181.83 
+25.85 
+21.42 
+1126.06 
+1079.06 
+265.34 
+105.88 
+285.69 
+21.75 
+55.77 
+1210.06 
+26.73 
+21.77 
+1151.37 
+1104.37 
+276.97 
+110.48 
+298.19 
+21.75 
+58.69 
+1238.54 
+27.30 
+22.13 
+1176.74 
+1129.74 
+288.97 
+115.32 
+311.13 
+21.75 
+61.80 
+1267.16 
+26.51 
+21.80 
+1202.26 
+1155.26 
+300.98 
+120.16 
+324.08 
+21.76 
+64.90 
+1295.60 
+25.40 
+22.00 
+1227.84 
+1180.84 
+312.53 
+124.80 
+336.53 
+21.77 
+67.76 
+1322.89 
+26.02 
+21.00 
+1252.42 
+1205.42 
+323.54 
+129.14 
+348.36 
+21.76 
+70.47 
+ 
+ 
+Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 35 
+MDKB 
+(m) 
+ Angle 
+(◦) 
+Azi-
+muth 
+(◦) 
+ TVDKB 
+(m) 
+TVDSS 
+(m) 
+ N-S 
+(m) 
+E-W 
+(m) 
+Net 
+Drift 
+(m) 
+Net 
+Dir 
+(m) 
+VS(m) 
+1351.14 
+26.00 
+20.50 
+1277.81 
+1230.81 
+335.13 
+133.53 
+360.75 
+21.72 
+73.33 
+1379.07 
+26.15 
+21.70 
+1302.90 
+1255.90 
+346.58 
+137.95 
+373.03 
+21.70 
+76.17 
+1407.80 
+27.21 
+21.70 
+1328.57 
+1281.57 
+358.57 
+142.72 
+385.93 
+21.70 
+79.23 
+1436.46 
+26.77 
+21.59 
+1354.11 
+1307.11 
+370.66 
+147.52 
+398.93 
+21.70 
+82.35 
+1465.05 
+26.15 
+22.74 
+1379.70 
+1332.70 
+382.46 
+152.32 
+411.67 
+21.72 
+85.35 
+1493.21 
+26.15 
+22.39 
+1404.98 
+1357.98 
+393.92 
+157.09 
+424.08 
+21.74 
+88.23 
+1521.64 
+26.64 
+22.30 
+1430.45 
+1383.45 
+405.61 
+161.89 
+436.72 
+21.76 
+91.19 
+1550.12 
+26.30 
+22.80 
+1455.94 
+1408.94 
+417.33 
+166.76 
+449.41 
+21.78 
+94.18 
+1578.60 
+26.20 
+22.70 
+1481.49 
+1434.49 
+428.95 
+171.63 
+462.01 
+21.81 
+97.11 
+1606.64 
+26.15 
+22.74 
+1506.65 
+1459.65 
+440.36 
+176.41 
+474.38 
+21.83 
+99.99 
+1634.48 
+25.85 
+22.83 
+1531.67 
+1484.67 
+451.61 
+181.13 
+486.58 
+21.86 
+102.81 
+1663.13 
+25.23 
+23.53 
+1557.52 
+1510.52 
+462.96 
+186.00 
+498.93 
+21.89 
+105.61 
+1691.58 
+24.70 
+23.18 
+1583.32 
+1536.32 
+473.99 
+190.76 
+510.93 
+21.92 
+108.26 
+1720.40 
+24.92 
+23.70 
+1609.48 
+1562.48 
+485.08 
+195.57 
+523.02 
+21.96 
+110.92 
+1749.05 
+24.26 
+23.40 
+1635.53 
+1588.53 
+496.01 
+200.33 
+534.94 
+21.99 
+113.52 
+1777.90 
+23.60 
+23.60 
+1661.90 
+1614.90 
+506.74 
+205.00 
+546.64 
+22.03 
+116.00 
+1806.25 
+23.21 
+23.00 
+1687.91 
+1640.91 
+517.08 
+209.45 
+557.89 
+22.05 
+118.34 
+1831.00 
+22.80 
+23.80 
+1710.70 
+1663.70 
+525.96 
+213.29 
+567.56 
+22.07 
+120.30 
+1864.36 
+20.53 
+24.50 
+1741.70 
+1694.70 
+537.20 
+218.33 
+579.87 
+22.12 
+122.66 
+1893.17 
+22.46 
+23.27 
+1768.51 
+1721.51 
+546.85 
+222.60 
+590.42 
+22.15 
+124.66 
+1921.60 
+25.05 
+21.60 
+1794.53 
+1747.53 
+557.44 
+226.98 
+601.88 
+22.15 
+127.07 
+1950.41 
+26.11 
+20.90 
+1820.51 
+1773.51 
+569.03 
+231.48 
+614.31 
+22.14 
+129.90 
+1979.23 
+27.00 
+20.98 
+1846.29 
+1799.29 
+581.06 
+236.09 
+627.20 
+22.11 
+132.94 
+2007.25 
+27.60 
+21.40 
+1871.19 
+1824.19 
+593.05 
+240.73 
+640.04 
+22.09 
+136.06 
+2035.65 
+27.91 
+21.80 
+1896.32 
+1849.32 
+605.34 
+245.60 
+653.27 
+22.08 
+139.33 
+2064.11 
+27.96 
+21.25 
+1921.47 
+1874.47 
+617.75 
+250.49 
+666.60 
+22.07 
+142.64 
+2092.79 
+27.34 
+20.10 
+1946.87 
+1899.87 
+630.20 
+255.19 
+679.91 
+22.05 
+145.92 
+2121.32 
+27.03 
+21.51 
+1972.25 
+1925.25 
+642.38 
+259.82 
+692.94 
+22.02 
+149.07 
+2149.61 
+27.70 
+21.34 
+1997.38 
+1950.38 
+654.49 
+264.57 
+705.94 
+22.01 
+152.23 
+2177.90 
+28.20 
+20.90 
+2022.37 
+1975.37 
+666.86 
+269.35 
+719.20 
+21.99 
+155.53 
+2206.49 
+27.60 
+21.30 
+2047.63 
+2000.63 
+679.34 
+274.17 
+732.58 
+21.98 
+158.86 
+2235.25 
+28.00 
+20.90 
+2073.07 
+2026.07 
+691.85 
+279.00 
+745.99 
+21.96 
+162.18 
+2263.78 
+28.35 
+20.98 
+2098.22 
+2051.22 
+704.43 
+283.81 
+759.46 
+21.94 
+165.56 
+2292.17 
+27.70 
+20.90 
+2123.28 
+2076.28 
+716.89 
+288.58 
+772.79 
+21.93 
+168.89 
+2320.53 
+27.10 
+21.30 
+2148.46 
+2101.46 
+729.07 
+293.28 
+785.84 
+21.91 
+172.07 
+2349.10 
+27.50 
+20.90 
+2173.85 
+2126.85 
+741.29 
+297.99 
+798.95 
+21.90 
+175.25 
+2377.73 
+27.30 
+21.34 
+2199.27 
+2152.27 
+753.58 
+302.74 
+812.12 
+21.89 
+178.46 
+2406.46 
+27.21 
+21.25 
+2224.81 
+2177.81 
+765.84 
+307.52 
+825.28 
+21.88 
+181.65 
+2435.53 
+27.34 
+20.81 
+2250.65 
+2203.65 
+778.28 
+312.30 
+838.60 
+21.86 
+184.88 
+2464.39 
+27.43 
+21.34 
+2276.27 
+2229.27 
+790.66 
+317.07 
+851.87 
+21.85 
+188.12 
+2521.34 
+25.71 
+22.21 
+2327.21 
+2280.21 
+814.32 
+326.52 
+877.34 
+21.85 
+194.13 
+2549.58 
+26.24 
+20.00 
+2352.59 
+2305.59 
+825.86 
+330.98 
+889.71 
+21.84 
+196.99 
+2579.35 
+27.20 
+19.60 
+2379.19 
+2332.19 
+838.45 
+335.51 
+903.09 
+21.81 
+200.16 
+2608.03 
+26.90 
+19.40 
+2404.73 
+2357.73 
+850.75 
+339.86 
+916.12 
+21.78 
+203.30 
+2626.91 
+27.69 
+18.61 
+2421.51 
+2374.51 
+858.93 
+342.68 
+924.77 
+21.75 
+205.40 
+2664.74 
+26.80 
+18.40 
+2455.14 
+2408.14 
+875.36 
+348.18 
+942.06 
+21.69 
+209.60 
+2693.19 
+26.70 
+18.70 
+2480.54 
+2433.54 
+887.50 
+352.25 
+954.85 
+21.65 
+212.65 
+2722.00 
+26.80 
+19.10 
+2506.27 
+2459.27 
+899.76 
+356.45 
+967.80 
+21.61 
+215.73 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 36 
+MDKB 
+(m) 
+ Angle 
+(◦) 
+Azi-
+muth 
+(◦) 
+ TVDKB 
+(m) 
+TVDSS 
+(m) 
+ N-S 
+(m) 
+E-W 
+(m) 
+Net 
+Drift 
+(m) 
+Net 
+Dir 
+(m) 
+VS(m) 
+2750.70 
+27.16 
+20.98 
+2531.85 
+2484.85 
+912.00 
+360.92 
+980.81 
+21.59 
+218.85 
+2779.65 
+27.25 
+20.28 
+2557.60 
+2510.60 
+924.38 
+365.58 
+994.05 
+21.58 
+222.05 
+2808.60 
+27.56 
+19.93 
+2583.30 
+2536.30 
+936.90 
+370.16 
+1007.37 
+21.56 
+225.30 
+2836.86 
+27.70 
+19.30 
+2608.33 
+2561.33 
+949.24 
+374.56 
+1020.47 
+21.53 
+228.53 
+2865.77 
+27.50 
+21.50 
+2633.95 
+2586.95 
+961.79 
+379.23 
+1033.86 
+21.52 
+231.82 
+2878.79 
+27.37 
+21.23 
+2645.51 
+2598.51 
+967.38 
+381.41 
+1039.86 
+21.52 
+233.28 
+2894.34 
+27.21 
+20.90 
+2659.33 
+2612.33 
+974.03 
+383.98 
+1046.99 
+21.51 
+235.01 
+2923.03 
+27.56 
+21.07 
+2684.80 
+2637.80 
+986.36 
+388.70 
+1060.18 
+21.51 
+238.23 
+2952.01 
+27.90 
+21.16 
+2710.46 
+2663.46 
+998.94 
+393.56 
+1073.67 
+21.50 
+241.55 
+2981.10 
+28.44 
+20.63 
+2736.10 
+2689.10 
+1011.7
+7 
+398.46 
+1087.40 
+21.50 
+245.00 
+3011.00 
+28.44 
+20.63 
+2762.39 
+2715.39 
+1025.0
+9 
+403.47 
+1101.64 
+21.48 
+248.61 
+ 
+Figure- 7.1: Vertical profile plot 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 37 
+ 
+Figure- 7.2: Horizontal profile plot 
+ 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 38 
+7.4 Casing & Cementation Data 
+Casing size (inch) 
+20 
+13⅜ 
+95/8 
+5½ 
+Hole Size (inch) 
+26 
+17½ 
+12 ¼ 
+Not Lowered 
+Drill Depth(m) 
+262 
+1854 
+2500 
+Casing Shoe(m) 
+261 
+1853 
+2499 
+Float Collar (m) 
+- 
+1828.5 
+2475 
+Hanger Top (m) 
+- 
+- 
+- 
+Short Joint Position 
+- 
+- 
+- 
+Casing type and grade 
+X-56, 133 PPF 
+P-110, 68PPF 
+P-110, 47 PPF 
+Casing lowering 
+(Time / Date) 
+20:30 hrs of 
+10.05.2023 
+12:30 hrs of 
+27.05.2023 
+12:00 hrs of 
+09.06.2023 
+Cementation Time / 
+Date 
+23:30 hrs of 
+10.05.2023 
+15:00 hrs of 
+27.05.2023 
+16:00 hrs of 
+09.06.2023 
+Quantity/ cement type 
+66 MT 
+44MT 
+ 32 MT 
+Volume of pre- 
+flush 
+8 m3 
+8 m3 
+8m3 
+Volume/ Wt of Lead 
+slurry 
+43 m3/ 1.65 SG 
+23 m3/ 1.95 SG 
+25m3/1.95 SG 
+Volume/ Wt of Tail 
+slurry 
+16 m3/ 1.95 SG 
+8 m3/ 1.95 SG 
+- 
+After Flush 
+- 
+- 
+- 
+Displacement 
+Time/Date 
+03:00 hrs of 
+11.05.2023 
+16:30 hrs of 
+27.05.2023 
+17:15 hrs of 
+09.06.2023 
+Volume/ Av. Wt. Of 
+Displacing Fluid 
+43 m3/ 1.07 SG 
+mud 
+143 m3/ 1.16 SG mud 
+94.5m3/ 1.20 SG 
+mud 
+Plug hitting Pressure 
+- 
+40 Ksc raised to 90 
+Ksc 
+60 Ksc raised to 90 
+Ksc 
+Cement rise Planned 
+Surface 
+400 m from casing 
+shoe 
+500m from casing 
+shoe 
+Cement rise Actual 
+Surface 
+ 
+ 
+Remarks 
+WOC for 24hrs 
+WOC for 24hrs 
+WOC for 24hrs 
+(8 hrs under 
+400psi) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 39 
+7.5 Mud Parameters Planned 
+DEPTH 
+(m) 
+ HOLE 
+SIZE (”) 
+M.WH 
+(sp.gr) 
+VISC. 
+ (Sec) 
+W/L 
+(cc) 
+pH 
+SALINITY 
+ppm (as NACL) 
+PV/YP 
+Gel0/10 /30 
+ SOLIDS (%) 
+SAND (%) 
+REMARKS 
+0-260 
+26 
+1.05-1.07  
+45-55 
+- 
+9.0-9.5 
+ 
+- 
+ 
+ 
+- Lightly treated 
+Bentonite Gel 
+260-1850 
+17 ½ 
+1.07-1.16  
+45-50 
+7-9 
+9.0-9.5 
+ 
+15-20 
+6-9/10-
+20/20-30 
+6-8 
+- C/Lignite-CMC-
+CFD 
+1850-2500 12 ¼ 
+1.16-1.20  
+45-55 
+5-6 
+8.5-9.0 
+ 
+20-30 
+7-9/10-
+20/20-25 
+8-10 
+- KCl-PHPA-Polyol-
+Polyamine 
+2500-3011 
+8 ½ 
+1.20-1.24  
+45-55 
+5-6 
+8.5-9.0 
+ 
+25-30 
+8-9/15-
+20/20-30 10-14 
+- KCl-PHPA-Polyol-
+Polyamine 
+ 
+7.6 Mud Parameters Actual 
+Sl. No 
+Drilling Phase 
+Depth Interval (m) 
+Mud System 
+1 
+26” 
+Surface-262 
+Lightly treated PHBS 
+2 
+17 ½” 
+600-1854 
+C/Lignite-CMC-CFD 
+3 
+12 ¼” 
+1854-2500 
+KCl-PHPA-Polyol-Polyamine 
+4 
+ 8 ½” 
+2500-3011 
+KCl-PHPA-Polyol-Polyamine 
+ 
+HOLE 
+SIZE (”) 
+MUD TYPE 
+DEPTH 
+(m) 
+M.W(sp.gr) 
+VISC. (Sec) 
+W/L (cc) 
+pH 
+SALINITY 
+ppm (as NaCl) 
+PV/YP 
+GEL0 / 
+GEL10 
+SOLIDS (%) 
+ KCL % 
+REMARKS 
+26 
+PHBS 
+0-262 
+1.05-1.07 
+45-47 
+- 
+9.5 
+- 
+- 
+- 
+- 
+- 
+- 
+17½ 
+PHBS 
+262-276 
+1.07 
+45-46 
+10 
+9.5 
+- 
+11/15 
+06/16 
+- 
+- 
+- 
+17½ 
+C Lignite-CMC-CFD 
+276-393 
+1.07-1.08 
+45-46 
+10-9 
+9.5 
+- 
+11/15 
+07/18 
+- 
+- 
+- 
+393-635 
+1.08-1.09 
+47-48 
+9 
+9.5 
+- 
+11-13/ 
+15 
+07/19 
+- 
+- 
+- 
+635-990 
+1.09-1.10 
+48-49 
+9-8.8 
+9.5 
+- 
+12-11/ 
+5-14 
+- 
+- 
+- 
+- 
+990-1160 
+1.10-1.11 
+49-47 
+8.5-8.4 
+9.5 
+2925 12-11/ 
+15 
+06/23 
+- 
+- 
+- 
+1160-1310 
+1.11-1.12 
+47-45 
+8.4-7.6 
+9.5 
+2925 
+ 11-
+12/15 
+05-06/ 
+22 
+8 
+- 
+- 
+1310-1450 
+1.12-1.14 
+45-46 
+7.6-7 
+9.5 
+2925 
+12/15 
+06/21 
+8 
+- 
+- 
+1450-1602 
+1.14-1.15 
+46-45 
+7 
+9.5 
+3510 12-13/ 
+15-14 
+04-05/ 
+20-21 
+8 
+- 
+- 
+1602-1854 
+1.15-1.16 
+45-46 
+7-6.5 
+9.5 
+3510 13-12/ 
+14-15 
+04-05/ 
+20 
+9 
+- 
+- 
+12¼ 
+C Lignite-
+CMC-
+CFD 
+1854-1867 
+1.16 
+50 
+7-6.5 
+9.5 
+3510 13-12/ 
+14-15 
+04-05/ 
+20 
+ 9 
+- 
+- 
+ 
+ 
+Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 40 
+HOLE 
+SIZE (”) 
+MUD TYPE 
+DEPTH 
+(m) 
+M.W(sp.gr) 
+VISC. (Sec) 
+W/L (cc) 
+pH 
+SALINITY 
+ppm (as NaCl) 
+PV/YP 
+GEL0 / 
+GEL10 
+SOLIDS (%) 
+ KCL % 
+REMARKS 
+KCl-PHPA-Polyol- 
+Polyamine 
+1867-2007 
+1.16-1.17 
+49 
+6.5 
+9 
+30420-
+32760 
+16/24-
+25 
+5-6/12 
+8 
+3 
+- 
+2007-2132 
+1.17-1.18 
+49-50 
+6 
+9 
+30420-
+31590 
+ 16-
+17/24-
+25 
+5-6/11-
+12 
+8 
+3 
+- 
+2132-2320 
+1.18-1.19 
+50-52 
+6 
+9 
+33930-
+34515 
+17-
+18/27-
+29 
+6/11-13 
+8 
+3.5 
+- 
+2320-2500 
+1.19-1.20 
+51-52 
+6 
+9 
+33930-
+39780 
+17-18/ 
+29 
+5/11 
+9 
+4 
+- 
+8 ½  
+KCl-PHPA-Polyol- 
+Polyamine 
+2500-2512 
+1.20 
+51-52 
+6 
+9 
+40950 17/27 
+07/13 
+9 
+4 
+- 
+2512-2665 
+1.20-1.21 
+52-53 
+7-6.5 
+9 
+40950-
+42120 
+18-20/ 
+29-28 
+08-
+07/16-15 09-10 
+4 
+- 
+2665-2815 
+1.21-1.23 
+53-42 
+7-6.5 
+9 
+42120 18-19/ 
+28 
+08/16 
+10 
+4 
+- 
+2815-3011 
+1.23-1.24 
+53-54 
+6.5.8 
+9 
+42120-
+42705 
+18-17/ 
+28-27 
+07/17 
+11 
+4 
+- 
+ 
+7.6 Mud chemical consumption 
+Sl 
+No. 
+Chemical Name 
+Qty 
+UOM 
+Cost 
+1 
+Mud Chemical PHPA Stable upto 140deg C 
+0.2 
+MT 
+34,724.06 
+2 
+Mud Chemical Barytes (Specific Gravity  
+256.35 
+MT 
+24,76,480.76 
+3 
+Sulphonated Asphalt ONGC/MC/69/2007 
+ONG 
+5.8 
+MT 
+3,37,080.97 
+4 
+Chrome Lignite ONGC/MC/20/2007 ONGC 
+Spe 
+0.875 
+MT 
+5,60,659.84 
+5 
+Polyol Commercial Grade 2 
+2.2 
+MT 
+3,59,453.03 
+6 
+Defoamer Liquid Eco Friendly 
+450 
+L 
+38,144.46 
+7 
+Core High Performance Extreme Pressure  
+1,800.00 
+KG 
+2,84,351.22 
+ 8 
+Biocide M123 Biocide For Drilling Fluids 
+25 
+KG 
+1,137.94 
+9 
+Mud Additive Deflocculant Chrome Free 
+4.05 
+MT 
+2,88,567.79 
+10 
+Non Invasive Fluid Additive 
+3,200.00 
+KG 
+1,35,188.11 
+11 
+Mud Chemicals Clay Hydration Suppressant 
+3,400.00 
+KG 
+2,08,600.02 
+12 
+Bentonite Powder 
+70.1 
+MT 
+8,91,645.81 
+13 
+Caustic Soda Flakes (Sodium Hydroxide) 
+3,400.00 
+KG 
+2,80,168.22 
+14 
+Mica Flake 
+500 
+KG 
+7,347.76 
+15 
+Soda Ash 
+400 
+KG 
+21,774.72 
+16 
+E P Lubricant 
+200 
+L 
+16,282.55 
+17 
+Drilling Detergent 
+400 
+L 
+15,723.57 
+18 
+XC Polymer 
+1.15 
+MT 
+2,04,531.84 
+19 
+PHPA Partialy Hydrolyzed Poly Acryl Am* 
+3 
+MT 
+6,85,264.13 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 41 
+20 
+Poly Anionic Cellulose (Regular) 
+4.1 
+MT 
+6,88,430.33 
+21 
+CMC (High Viscosity Grade) 
+5 
+MT 
+5,62,721.34 
+22 
+Carboxymethyl cellulose(Lvg) 
+8 
+MT 
+7,67,318.19 
+23 
+Bleaching Powder 
+475 
+KG 
+12,350.00 
+24 
+Causticised Lignite 
+4.475 
+MT 
+1,32,846.10 
+25 
+Micronized Calcium Carbonate 
+0.5 
+MT 
+3,356.32 
+26 
+Pre-gelatinised Starch 
+2.8 
+MT 
+1,19,349.49 
+27 
+Poly Anionic Cellulose Lvg 
+8.6 
+MT 
+10,75,258.70 
+28 
+Potassium Chloride Revised Ongc/Ws/35/2* 
+34.25 
+ 
+25,69,879.68 
+29 
+Potassium Hydroxide 
+0.7 
+MT 
+92,489.96 
+30 
+Graphite Flakes 
+150 
+KG 
+9,976.27 
+31 
+Aluminum Stearate 
+100 
+KG 
+13,222.16 
+Total: 
+1,28,94,325.34 
+ 
+ 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 42 
+Mud Weight Planned versus Actual
+ 
+Figure-7.3: Mud Weight Planned versus Actual 
+ 
+ 
+ 
+ 
+ 
+ 
+Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 43 
+CHAPTER 8: 
+PRODUCTION TESTING 
+8.1 Production Testing 
+Based on evaluation of wire line logs and the G&G data, no interesting zone was identified 
+from Hydrocarbon point of view. Therefore, the well was permanently abandoned without 
+lowering 5.5" casing. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 44 
+CHAPTER 9: 
+COMPLICATIONS 
+ 
+9.1 
+  During Drilling 
+No Major complications were observed during drilling. 
+ 9.2 During Logging 
+9.2.1 17 ½” Phase 
+Logging tool troubleshoot: During shallow check of DSI-GR logging tool at 400m, observed 
+log data not being reflected in system. Tool was pulled out inside shoe and recalibrated. After 
+power recycling found data is showing and the tool is working fine. Thereafter tool was run in 
+and log was recorded. 
+ (Time Consumed: 1hrs) 
+9.3 During Casing and Cementation 
+No Major complications were observed during casing and cementation.  
+ 9.4 During Well Abandonment  
+ No Major complications were observed during well abandonent. 
+ 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 45 
+CHAPTER 10:  
+ WELL ABANDONMENT 
+ 
+10. WELL ABANDONMENT: 
+ In view of no interesting zone, it was decided to permanently abandon the well. 
+ 10.1 Abandonment Plug Details 
+10.1.1 Bottom abandonment plug 
+After a round trip 5” Open-ended drill pipe was run in hole to 2800m. A weighted hi-viscous 
+pill (1.5 SG & visc -150) was placed covering the interval 2500-2800m. Thereafter OEDP was 
+pulled out to 2532m and bottom abandonment cement plug job was carried out with 10.8m3 of 
+1.92 SG cement slurry covering the interval 2302m-2532m. After WOC for 24 hours, cement 
+top was tagged at 2334m and successfully tested at 1000psi. 
+ Particulars 
+Details 
+Purpose 
+Bottom abandonment cement plug 
+Date of job 
+19.06.2023 
+Planned plug interval (m) 
+2302-2532m (230m) 
+OEDP 
+2532m 
+Pre-flush (m3) 
+5.10 m3 of water 
+Cement slurry (m3/wt) 
+10.80 m3 of 1.92 SG 
+After flush (m3) 
+1.86 m3 of chemical flush 
+Displacing fluid (m3/type) 
+18.8 m3 of 1.20 SG mud 
+Initial P/O 
+12 stands upto 2190m 
+Direct wash with 
+80 m3 mud by rig pump 
+Safety P/O 
+5 stands upto 2045m 
+Remarks 
+WOC was for 24 hrs (well-kept closed for 12hrs). 
+ 10.1.2 Intermediate abandonment plug 
+9 5/8” casing was cut by wire-line at 1200m and retrieved 90 joints (~1200m) of 9 5/8” casing. 
+ Diverter was run in up to 1228m and 100m of intermediate abandonment plug was palced in 
+the interval 1228-1128m. After WOC, the cement plug was tagged at 990m and tested at 
+1000psi, was found holding. Actual plug length: 238m (990-1228m). 
+ 
+ 
+ Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 46 
+Particulars 
+Details 
+Purpose 
+Intermediate abandonment cement plug 
+Date of job 
+22.06.2023 
+Planned plug interval (m) 
+1228-1128 
+5” DP end depth (m) 
+1228 
+ Pre-flush (m3) 
+6.5/Water 
+Cement slurry (m3/wt) 
+ 16/1.95 SG 
+After flush (m3) 
+0.93/Water 
+Displacing fluid (m3/type) 
+7.9/water 
+Initial P/O 
+09 stands 
+Direct wash with 
+80m3 water 
+Safety P/O 
+06 stands 
+Remarks 
+WOC for 24hrs (well kept closed for 12 hrs) 
+ 10.1.3 Top abandonment plug 
+100m of weighted Hi-viscous pill of 1.24 SG was placed in the annulus from 350-250m. 13 
+3/8” casing was perforated in the interval 250-251m and OEDP was run in up to 348m. Well 
+volume was changed over to water. Top abandonment plug of 120m in the interval 248-128m 
+was placed and 60m of cement slurry was raised in the outer annulus (13 3/8”X20”). After 
+WOC, the cement plug was tagged at 120m and was tested at 1000 psi surface pressure, 
+was found holding. A & B section well heads were retrieved and MS plate was welded at well 
+mouth. The Rig E-1400-14 was then released to the next development location ADED w.e.f., 
+0600hrs on 26.06.2023.  
+ Particulars 
+Details 
+Purpose 
+Top abandonment cement plug  
+Date of job 
+24.06.2023 
+Planned plug interval (m) 
+248-128 
+5” DP end depth (m) 
+ 248 
+Cement slurry (m3/wt) 
+9.4/1.90SG 
+ 
+ 
+Well Completion Report of AD#66 (ADAV) 
+ Tripura Forward Base, AAFB, Agartala 
+Page 47 
+Displacing fluid (m3/type) 
+1/water 
+Initial P/O 
+Up to 77m 
+ Direct wash with 
+1.5m3 water 
+Safety P/O 
+03 stands 
+Remarks 
+WOC for 24hrs 
+ 
+ 
+ 
+ 
+ 
+ 
+Well Completion Report of AD#66 (ADAV) 
+Tripura Forward Base, AAFB, Agartala 
+Page 48 
+ 
+Figure-8: Well Schematic Diagram 
+ 
+ 
+ 
+ Logging Services, Tripura Asset, Agartala 
+Page 20 
+FER of Well: E-AGTD-66(ADAV)  
+ 
+       AUGUST-2023 
+ 
+Plate: 2 
+Field Location Map 
+ 
+ 
+ 
+ 
+ 
+ Logging Services, Tripura Asset, Agartala 
+Page 21 
+FER of Well: E-AGTD-66(ADAV)  
+ 
+       AUGUST-2023 
+ 
+ 
+Plate: 3 
+Well Location Map – Well # ADAV 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Logging Services, Tripura Asset, Agartala 
+Page 22 
+FER of Well: E-AGTD-66(ADAV)  
+ 
+       AUGUST-2023 
+ 
+Plate: 4 
+ 
+Seismic IL-385 & XL-1081 passing through location ADAV 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Logging Services, Tripura Asset, Agartala 
+Page 23 
+FER of Well: E-AGTD-66(ADAV)  
+ 
+       AUGUST-2023 
+ 
+Plate: 5 
+ 
+Time Relief contours of AP-36 pay  
+(Overlain on RMS attribute map of AP-36 pay sand) 
+ 
+ 
+ 
+ 
+ Logging Services, Tripura Asset, Agartala 
+Page 24 
+FER of Well: E-AGTD-66(ADAV)  
+ 
+       AUGUST-2023 
+ 
+Plate: 6 
+ 
+Time Relief contours close to AP-36 pay sand 
+ 
+ 
+ 
+ 
+ Logging Services, Tripura Asset, Agartala 
+Page 25 
+FER of Well: E-AGTD-66(ADAV)  
+ 
+       AUGUST-2023 
+ 
+Plate: 7 
+ 
+Well Construction Diagram (Driller’s depth) 
+ Well No. AD#66 (ADAV) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26.0” CSG, CS @ 261.0 m 
+ 5.5” CSG was not lowered in 8.5” Section 
+KOP @ 297.0 m 
+9.625” CSG, CS @ 2499.0 m & FC @ 2475.0 m 
+13.375” CSG, CS @ 1853 m & FC @ 1828.5 m 
+ 
+ 
+ Logging Services, Tripura Asset, Agartala 
+Page 26 
+FER of Well: E-AGTD-66(ADAV)  
+ 
+       AUGUST-2023 
+ 
+Plate: 8 
+ 
+ Well Path Diagram (2-D & 3-D view) 
+ Well No. AD#66 (ADAV) 
+ 
+ 
+  
+ 
+ 
+  Logging Services, Tripura Asset, Agartala 
+Page 34 
+FER of Well: E-AGTD-66(ADAV)  
+ 
+       AUGUST-2023 
+ 
+Plot-1 
+ Rw Determination Plot 
+(Pickett Plot) 
+Upper Bhuban Formation: 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bokabil Formation: 
+ 
+ 
+ 
+ Logging Services, Tripura Asset, Agartala 
+Page 35 
+FER of Well: E-AGTD-66(ADAV)  
+ 
+       AUGUST-2023 
+ 
+Plot-2 
+Clay Mineralogy Plot  
+ 
+(Th vs K Cross-Plot) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+Prospect Name: B-AD-54
+ Well Name:  AD#66 (ADAV)
+Block:  Agartala Dome Ext-III PML
+Sector: Assam Arakan Fold Belt
+ Well Category: Expl. ‘B’
+EPMB: 30th EPMB
+Loc. Release date: 31.03.2022
+Objective: To probe the extension of AP-
+36 eqv. sand towards  the west of AD#30, 
+AD#55 and AD#56 pool 
+Spud date: 08.05.2023
+Date of HT:    Not carried out
+Rig release date: 26.06.2023
+KB: 47.62m
+GL: 40 m
+Rig: E-1400-XIV
+TD:  2715m TVDSS, 3011m (MDKB) 
+ Driller’s Depth: 3011m (MDKB) 
+Formation at TD: Upper Bhuban
+Profile:  Inclined “L” Profile
+No of Objects identified: Nil
+No of Objects tested:  Nil
+Well Status:  Dry and abandoned without lowering of Production casing
+B-AD-54
+General information AD#66 (ADAV) 
+ Tripura Geological Map
+SEISMIC SECTION: IL-385 & XL-1081 PASSING THROUGH WELL ADAV (AD#66)
+ADAV
+IL-385
+ADAV
+XL-1081
+E
+W
+N
+S
+N
+S
+W
+E
+ADAV (AD#66)
+Upper Bhuban Top
+AP-36 equivalent Top
+Upper Bhuban Top
+AP-36 equivalent Top
+(Pre-Drill)
+(Pre-Drill)
+ Seismic Section: RC line passing along the well profile of ADAV (AD#66)
+5
+ADAV
+AD-30
+AD-55_Proj
+A
+A’
+A
+A’
+A
+A’
+ADAV
+Upper Bhuban Top
+AP-36 equivalent Top
+(Pre-Drill)
+AD-30
+AD-56
+AP-36
+AP-38
+AP-40
+AP-50
+AD-55
+7
+TIME AND DEPTH MAPS CLOSE TO AP-36 PAY TOP
+ADAV (AD#66)
+ADAV (AD#66)
+ RMS Amplitude Map & REC Isopay Map of AP-36 Pay
+B-AD-54
+AD-30
+AD-56
+AD-55
+AD-5
+B-AD-54
+AD-30
+RMS Amplitude map of AP-36 pay overlain by time relief contour of AP-36 pay
+Window: +30ms from pay top
+REC Isopay of AP-36 overlain on  RMS Amplitude map of AP-36 pay
+AD-5
+AD-56
+AD-55
+PS: 274 MMSCM
+PS: 376 MMSCM
+PD: 909 MMSCM
+ADAV (AD#66)
+ ADAV (AD#66)
+Seismic Section: IL-385 & XL-1081 passing through ADAV (AD#66)
+AD-66
+IL-385
+AD-66
+XL-1081
+E
+W
+N
+S
+N
+S
+W
+E
+ADAV
+Upper Bhuban Top
+(Post-Drill)
+(Post-Drill)
+Bokabil Top
+Middle Bhuban Top
+Upper Bhuban Top
+Bokabil Top
+Middle Bhuban Top
+11
+Interpreted RC line passing through wells RO#28, AD#66 and AD#30
+A
+A’
+RO-28
+AD-66
+AD-30
+A
+A’
+(Post-Drill)
+AD-30
+AD-66
+RO-28
+Erosional cut
+12
+RC line passing through RO#28, AD#66 and AD#30
+A
+A’
+RO-28
+AD-66
+AD-30
+A
+A’
+(Post-Drill)
+AD-30
+AD-66
+RO-28
++enerated4at4gPqNgT4center4JorhatW4last4updated4on468SbPRS616°41"X'8
+W#SKqlement4
+b+U6°gUPMLbwUbwLbwbV
+#asinKHSubK#asinHK+ield4
+bVbbyHbbmy
+StructureHProspect4
+b+bRTbLb4wOMg
+StateH"istrictK4
+WgST4TRqPURb
+PostalK3ddress4
+yqSjbL+bRj
+PoliceKStationKHK+ireKStation4
+yqSjbL+bRj
+TargetK"epthCmMKK#4
+°1KK4MwKyH468964TVwKy
+ZroundKLevelCmM4
+'1
+KellyK#ushKCmM4
+'8U96
+Latitude
+6° ° '° & °1U1°
+M N
+CReleasedM4
+Longitude
+)K ° K9 & 66U))
+ M g
+Latitude4
+6° ° '° & 1KU(°
+M N
+CSurfaceM4
+Longitude4
+) K ° K9 & K1U)K
+M g
+"atum4
+W+SS('
+LicenseK"etail4
+mUKS6B9K/H+gOHwqH61KKHK9K(°S('
+#lockK"etail4
+b+bRTbLb4wOMg4gXTNSqqq4PML
+,onsortiumKMembers4
+ON+k
+Operator4
+ON+k
+WellKType4
+gXPLORbTORY
+WellKProfile4
+qNkLqNgw
+qxpandableH
+ReferenceKWells
+bwS°1W4bwS""W4bwS'°W4ROS9'W4ROS")
+MudKLoggingKServices4
+Jindal4qndustries4PvtULtd
+PlanKWellK,ostCzNRM4
+'°8')°8)(
+Objective4
+To4explore4jk4prospects4in4sands4of4Upper4yhuban4BbPS°9/
+RigKName4
+gSK'11SXqV
+RigKType4
+glectrical
+WellK%eadKSet4
+'kPX"M
+#OPKType4
+bnnular4V4RbM4Type4B"M/
+MudKPump4
+Mj4WqRTj4K911jP
+PowerKtoKMudKPump4
+glectrical
+"rawKWorks4
+K'114jP
+PowerKtoK"rawWorks
+glectrical
+ZqONTq,%Nz,3LKOR"qR4K3"3VC3"3VM
++orwardK#aseK3gartala
+OzLK3N"KN3TUR3LKZ3SK,ORPOR3TzONKLT"j
+qXPLOR3TORYKzN,LzNq"
+claystone
+sandstone
+shale
+siltstone
+kb
+water
+gas
+oil
+gasHoil
+ZeologicalKfKZeophysicalK"ata
+MudKParameters
+"rillingK"ata
+"qPT%CmM
+w
+Vww
+.ww
+X2&
+&0X
+2Y.
+--.U
+-UVV
+-Xw-
+-Y&2
+-0X0
+VwU&
+VV-Y
+VU2X
+VX&.
+ V&XU
+PROZjK3Zq
+Mw
+TVw
+1
+611
+'11
+911
+(11
+K111
+K611
+K'11
+K911
+K(11
+6111
+6611
+6'11
+6911
+6(11
+°111
+K#
+K#
+PLzONPLzqSTO,qNq
+L3TqKMzO,qNq
+Mz""LqKMzO,qNq
+PROZj+ORMjHMqM#qR
+Tipam
+#okabil
+UpperK#huban
+PROZjKLzT%OLOZY
+CM"K#M
+qXPq, Tq"KOzLH
+Z3SKS%OW
+,ONVqNTzON3L
+,ORzNZ
+,,v-
+WzRqLzNqKLOZZzNZH
+LW"HVSP
+ResistivityN"ensityNNeutronN,aliNSZRIKS#TNV"LNZRN,,LKinK-UNUH0L,asing
+LW"C"irectionalIKZRIKResistivityIK3"NMKsu
+bjectKtoK3vailabilityIKSSSzNSZRKwithKwire
+lineIKR,zKwithKP,LCifKrequiredMIKS#TNV"LN
+ZRN,,LKinK2NXH0L,asing
+LW"C"irectionalIKZRIKResistivity
+IK3"NMKsubjectKtoK3vailabilityI
+SSSzx+MzxLzT%OS,3NNqRNSZRKwithKw
+irelineIKR,zKwithKP,LCifKrequire
+dMIKS#TNV"LNZRN,,LKinKXN-HVL,asi
+ng
+,OLLq,TzONKO+
+,UTTzNZKS3MPLqS
+SpotKSampling
+qveryK-wmKinterval
+qveryKXmKinterval
+3NZLqKO+K"zPH
+UN,ON+ORMzTYK+3ULTS
+"RzLLzNZK%3Z3R"S
+C%VSI,OVM
+NoK%VSKorK,OVKexpected
+qXPq,Tq"K+ORM
+TqMPqR3TURq
+2w,
+qXPq,Tq"K+ORM
+PRqSSURq
+3sKperKpreKdrillKporeKpressureKplotj
+qXPq,Tq"KMU"LOSSH
+,3VzNZS
+NoKmudKlossKreportedKinKnearbyKwellsjK,avingKexpectedKagainst
+shaleKsectionj
+MU"KSYSTqM
+LightlyKtreatedKbentonite
+gel
+,ajligniteN,M,N,+"Ksystem
+K,LNP%P3NPOLYOLNPOLY3MzNq
+K,LNP%P3NPOLYOLNPOLY3MzNq
+MU"KWqzZ%T
+-jwXN-jw&
+-jw&N-j-Y
+-j-YN-jVw
+-jVwN-jV.
++UNNqLKVzS,OSzTY
+.XNXX
+.XNXw
+.XNXX
+.XNXX
+ +LUz"KLOSS
+N3
+&N2
+XNY
+XNY
+YzqL"KPOzNTH
+ST3Tz,K+LOWKSTRqSS
+N3
+-XNVw
+VwNUw
+VXNUw
+SOLz"R
+N3
+YN0
+0N-w
+-wN-.
+ ZqLKwHUKRPM
+N3
+YN2
+&N2
+0N2
+ZqLK-wKHKZqLKUw
+N3
+-wNVwHVwNUw
+-wNVwHVwNVX
+-XNVwHVwNUw
+P%
+2jwN2jX
+2jwN2jX
+0jXN2jw
+0jXN2jw
+,3SzNZK3N"
+,qMqNTKRzSq
+VwL
+VYw
+-UKUH0L
+-0Xw
+2KXH0L
+VXww
+XK-HVL
+Uw--
+"RzLLzNZKTYPq
+Rotary
+S"MMxMW"
+S"MMxMW"
+S"MMxMW"
+#zTKSzZqKfKTYPq
+VYLKC-N-N-IKNewM
+-&K-HVLKCXRZZx,PSIKNewM
+-VK-H.LKCM"SzY-YNPIKRRM
+0K-HVLKCTKYY"MNXIKNewM
+NOKO+K#zTS
+-
+-
+-
+-
+MqTqR3ZqKPqRK#zT
+VYw
+-X2w
+YXw
+X--
+WO#
+XN-wKTon
+3sKperK"irectionalK"riller
+3sKperK"irectionalK"riller
+3sKperK"irectionalK"riller
+RPM
+XwN&w
+3sKperK"irectionalK"riller
+3sKperK"irectionalK"riller
+3sKperK"irectionalK"riller
+"zS,%3RZq
+0XwN-wXwKZPM
+3sKperK"irectionalK"riller
+3sKperK"irectionalK"riller
+3sKperK"irectionalK"riller
+ST3N"PzPqKPRqSSURq
+YwwN--wwKpsi
+3sKperK"irectionalK"riller
+3sKperK"irectionalK"riller
+3sKperK"irectionalK"riller
+,3SzNZKTYPqKfKZR3"q
+VwLIKXNXYIK-UUppfI
+Leopard
+-UKUH0LIKPN--wIKY0KppfIK#T,
+2KXH0LIKPN--wIK.&KppfIKTS%
+XK-HVLIKPN--wIKVwKppfIKV3M
+"RzLLKSTRzNZH#%3
+2K-HVLIK0LIKYK-HVLK",IKX
+L%W"PKWzT%KXL"P
+0LIKYK-HVLK",IKXL%W"PKWzT%KXL"P
+0LIKYK-HVLK",IKXL%W"PKWzT%KXL"P
+YK-HVLK",IKXL%W"PKWzT%KXL"P
+RigKMoveIK"rillingKandKProductionKTestingKProgress
+"epthKvsjK"ays
+w
+Uw
+Yw
+2w
+-Vw
+1
+611
+'11
+911
+(11
+K111
+K611
+K'11
+K911
+K(11
+6111
+6611
+6'11
+6911
+6(11
+°111
+K9
+Rig4Transportation4V4Rig4yuilding4BK94days/
+K(
+wrilling469M4hole4B64days/
+6K
+ksgW4cmntgW4WjHyOP4installUW4Tripping4B°4days/
+°1
+wrilling4K84KH6M4hole4B)4days/
+°°
+LoggingO4Tripping4for4Logging4B°4days/
+°9
+ksgW4cmntgW4WjHyOP4installUW4Tripping4B°4days/
+'°
+wrilling4K64KH'M4hole4B84days/
+'(
+LoggingO4Tripping4for4logging4B"4days/
+"6
+ksgW4cmntgW4WjHyOP4installUW4Tripping4B'4days/
+9°
+wrilling4(4KH6M4holeO4koring4BKK4days/
+81
+LoggingO4Tripping4for4Logging4B84days/
+8'
+ksgW4cmntgW4WjHyOP4installUW4Tripping4B'4days/
+()
+PT4BKSobj/4O4VSP4BK"4days/
+R#KNK-YKdays
+"rillingKNKX0Kdays
+PTKC-KobjMxKVSPKNK-XKdays
+Remarks
+K
+bll4drilling4parameters4are4tentative4and4subject4to4change4as4per4actual4well4conditionsU
+6
+The4well4design4is4based4on4the4envisaged4pore4pressure4and4other4sub4surface4dataU4qn4case4of
+variation4the4mud4parameters4may4be4changed4as4per4well4behavior4and4the4well4will4be4appropriately
+completed4considering4operational4safetyU
+°
+kqTW4SqT4and4PqTH4LOTHXLOT4to4be4conducted4after4every4casing4as4per4standard4SOP4guidelinesU
+'
+kasing4SeatsW4shoe4depths4and4type4and4planned4cement4rise4are4tentative4and4may4change4as
+per4bottom4holeHSub4surface4conditions4and4final4logs4to4complete4the4well4safely4to4TwU
+"
+)4"H(M4casing4shoe4depth4may4be4revised4after4evaluation4of4real4time4LWw4dataU
+9
+kore4to4be4taken4on4getting4gas4showsU4gxact4coring4depth4will4be4decided4by4Wellsite4+eologistU
+gfforts4should4be4made4to4ensure4maxU4recovery4of4coreU4bdditional4coring4and4logging4will4be
+carried4out4as4and4when4required4by4the4Wellsite4+eologistU
+8
+The4minal4depth4of4the4well4will4be4decided4by4the4Wellsite4+eologist4in4consultation4with4wrilling
+ServicesU
+(
+minal4casing4shoe4depth4as4well4as4cement4rise4will4be4decided4on4the4basis4of4final4log4evaluationU
+)
+bppropriate4kill4mud4of4each4phase4should4be4prepared4prior4to4drilling4from4second4phase4onwardU
+K1 LWw4to4be4used4in4K64KH'M4and4(4KH6M4sectionsU
+KK VSP4is4to4be4carried4outU
+3dditionalK"eviationK"ataKPlanned
+KickKofKPoint
+°11
+LandingKPoint
+NetK"riftKatKtarget
+K1)'
+NetK"irectionKatKtarget
+6KU"K
+VerticalKShortningKatKTarget
+6')
+"rainK%oleKLength
+,omplicationsKinKNearbyKWells
+WellKNoj
++ormation
+NatureKofK,omplications
+Stuck up at 6K99m during ) "H(M
+casing lowering
+ROS")
+Upper4yhuban
+String stuck at 6°6)m while making connection
+bwS""
+Upper4yhuban
+Mud loss at K"m while drilling
+69M
+holeU
+ROS9'
+Tipam
+"eviationK"ataKPlanned
+M"CmMK#
+3ngle
+3zimuth
+TV"CMMK#
+NetK%orizonj
+"rift
+Reservoir
+Top
+°11
+1
+1
+°11
+1
+KOP
+°°1
+KU'(
+6KU"K
+°°1
+1U°(8
+'(1
+(U(9
+6KU"K
+'8)U°
+K°U()
+9°1
+K9U6'
+6KU"K
+96"U9
+'9U'"9
+(K1
+6"UK
+6KU"K
+8)°U(
+K1)U)°
+(°)U)"
+69U"8
+6KU"K
+(61U(
+K66U)(K
+gOy
+6K°1
+69U"8
+6KU"K
+K)8'U9
+811U11)
+6°K1
+69U"8
+6KU"K
+6K°"U9
+8(1U"6K
+6')1
+69U"8
+6KU"K
+66)9U9
+(9KU1°°
+69'1
+69U"8
+6KU"K
+6'°1U8
+)6(UK68
+69')U)9
+69U"8
+6KU"K
+6'°)U8
+)°6U"(6
+bPS°9
+6891
+69U"8
+6KU"K
+6"°(UK
+)(KU(16
+6((1
+69U"8
+6KU"K
+69'"U'
+K1°"U'88
+bPS°(
+6)81
+69U"8
+6KU"K
+686"U)
+K18"U8°°
+°1KKUKK
+69U"8
+6KU"K
+6896U8
+K1)'UK6K
+Tw
+zN,LzNOZR3M
+VSq,CmM
+NorthingCmM
+TV"CmM
+qastingCmM
+PlanKView
+VerticalKSection
+zM3ZqS
+LocationKMap
+SeismicKzLKofK3"3V
+SeismicKXLKofK3"3V
+SzZN3TURqS
+NameKfK"esignation
+%q3"K+ORW3R"K#3Sq
+NameKfK"esignation
+%q3"K"RzLLzNZKSqRVz,qS
+NameKfK"esignation
+LMNMU"KSqRVz,q
+NameKfK"esignation
+%q3"KLOZZzNZKSqRVz,qS
+NameKfK"esignation
+%q3"KWqLLKSqRVz,qS
+,ompany
+WellKName
+bwbV
+qnvj,lrjK"ate
+JbN419W616°
+3sset
+Year
+6166
+qstimatedK,ost
+'°8')°8)(U1
+#asin
+z,qKZTOKNo4
+111111°'89
+ZTOKStatus4
+bpproved
+3pprovers
+SrjKNo
+Position
+Name
+"esignation
+Status
+111K
+morward4yase4Manager
+wjbRMbNbNw4PRbyjbKbR4MbNKg
+khU+eneral4Manager4B+eology/
+bpproved
+1116
+jead4wrilling4Service
+MOjw4RbSjqw4bLq4bNSbRq
++pU+eneral4Manager4Bwrilling/
+bpproved
+111°
+LMSMud4Services
+SUNqL4KUMbR
++eneral4Manager4Bkhem/
+bpproved
+111'
+LMSkementing4Services
+jbR+OVqNw4SqN+j4SqN+OTqb
++eneral4Manager4Bwrilling/
+bpproved
+111"
+jead4Well4Services
+PRbMOw4KUMbR4Sb+bR
+khU+eneral4Manager4BProdn/
+bpproved
+1119
+jead4Logging4Services
+PRbMOw4KUMbR
++eneral4Manager4B+eophySW/
+bpproved
+Area/Structure
+Bishalgar/Agartala Dome
+Name of Rig
+E-1400-XIV
+Latitude
+23°43’01.831” N
+Rig Type
+Electrical
+Longitude
+91°16’10.919” E
+Type of Well
+Exploratory
+State
+Tripura
+Category of Well
+B
+Elevation, KB
+47.62m
+Spud Date
+08.05.2023
+Water Depth
+40m
+Drilled Depth (m)
+3011m (2762.39m TVD)
+Target Depth 
+3011m (3011m TVD)
+Status
+ Well Construction Diagram
+AD#66 (ADAV)
+Abandoned without 5.5" casing
+Objective
+To explore hydrocarbon prospects in Upper Bhuban sands (AP-36).
+ Depth
+Age
+Casing
+Formation
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+1600
+1700
+1800
+1900
+2000
+2100
+2200
+2300
+2400
+2500
+2600
+2700
+2800
+Pliocene
+Late Miocene
+Middle Miocene
+20"  at 261m
+13⅜"  at 1853m
+9⅝''   at 2499m
+Openhole
+TD :3011m (TVD : 2762.39m) 
+Net Drift : 1101.64m)
+0
+200
+400
+600
+800
+1000
+Tipam
+Bokabil
+Upper Bhuban
+Bottom Abadonment Cement 
+Plug 2302-2532m
+9 5/8" casing retreived from 1200m
+Intermediate Abadonment 
+Cement Plug 1130-1230m
+Top Abadonment Cement 
+Plug 128-248m
+-400
+-300
+-200
+-100
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+1600
+1700
+1800
+1900
+2000
+2100
+2200
+2300
+2400
+2500
+2600
+2700
+2800
+2900
+3000
+3100
+DEPTH (m)
+AD#66 (ADAV) PROGNOSED vs ACTUAL
+BOKABIL
+LATE MIOCENE
+KB: 47m
+CASING
+CASING
+KB:47m
+5
+1/2
+"
+)
+3011m
+ 
+ (
+UPPER BHUBAN
+MIDDLE MIOCENE
+FORM.
+ AGE
+CC#1
+1.05-1.07 SG
+1.07-1.16 SG
+1.16-1.20 SG
+1.20-1.24 SG
+TARGET SANDS    MW
+PLANNED/EXPECTED
+ACTUAL
+LITHOLOGY 
+PAY SANDS        MW
+13 3/8" (1850m)
+9 5/8" (2500m)
+BOKABIL
+LATE MIOCENE
+UPPER BHUBAN
+MIDDLE MIOCENE
+FORM.
+ AGE
+TD: 3011mMDKB / 2762.39mTVDKB
+1.07-1.16 SG
+826m/
+806m
+813m/ 
+796m
+20" (261m)
+20" (260m)
+1.05-1.07 SG
+TIPAM
+EARLY PLIOCENE
+AP-36
+AP-38
+1888m/
+1758m
+TIPAM
+EARLY PLIOCENE
+13 3/8" (1853m)
+1.16-1.20 SG
+LITHOLOGY
+9 5/8" (m)
+1.20-1.24 SG
+5 1/2"
+not lowered
+1854m/
+1732m
+250
+350
+450
+550
+650
+750
+850
+950
+1050
+1150
+1250
+1350
+1450
+1550
+1650
+1750
+1850
+1950
+2050
+2150
+2250
+2350
+2450
+2550
+2650
+2750
+2850
+2950
+3050
+0.1
+1.0
+10.0
+(m)
+DEPTH (m)
+SIGMA PLOT
+D'EXPONENT PLOT
+D' Exponent and  Sigma Plot
+ WELL: AD#66 (ADAV)
+DEPTH: (262-3011)m
+17.5" PHASE
+12.25" PHASE
+8.5" PHASE
+TCR BIT
+(262-276m)
+ TCR BIT
+(276-1512m)
+ PDC BIT
+(1512-1854m)
+TCR BIT
+(1854-1867m)
+ PDC BIT
+(1867-2500m)
+TCR BIT
+(2500-2512m)
+ PDC BIT
+(2512-3011m)
+ Well TD: 3011mMDKB/ 2762.39mTVDKB
+250
+350
+450
+550
+650
+750
+850
+950
+1050
+1150
+1250
+1350
+1450
+1550
+1650
+1750
+1850
+1950
+2050
+2150
+2250
+2350
+2450
+2550
+2650
+2750
+2850
+2950
+3050
+1.00
+2.00
+3.00
+4.00
+5.00
+6.00
+7.00
+8.00
+9.00
+10.00
+Shale 
+Density
+Shale  Factor
+cc)
+100
+DENSITY (gm/cc) AND SHALE FACTOR (meq/
+SHALE
+(ADAV)
+66
+AD#
+WELL:
+DEPTH: (262m-3011m)
+ Well TD: 3011mMDKB/ 
+8.5" PHASE
+12.25" PHASE
+DEPTH
+* Discontinuous graph due to no 
+SHALE
+17.5" PHASE
+250
+350
+450
+550
+650
+750
+850
+950
+1050
+1150
+1250
+1350
+1450
+1550
+1650
+1750
+1850
+1950
+2050
+2150
+2250
+2350
+2450
+2550
+2650
+2750
+2850
+2950
+3050
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+ROP (min/m )
+DEPTH (m)
+17.5'' PHASE
+12.25" PHASE
+8.5" PHASE
+ROP PLOT 
+(ADAV)
+66
+AD#
+WELL:
+DEPTH: (262m-3011m)
+ TCR BIT (262-276m)
+TCR BIT (276-1512m)
+ PDC BIT (1512-1854m)
+TCR BIT (1854-1867m)
+ PDC BIT (1867-2500m)
+TCR BIT (2500-2512m)
+ PDC BIT (2512-3011m)
+ Well TD: 3011mMDKB/ 2762.39mTVDKB
+250
+350
+450
+550
+650
+750
+850
+950
+1050
+1150
+1250
+1350
+1450
+1550
+1650
+1750
+1850
+1950
+2050
+2150
+2250
+2350
+2450
+2550
+2650
+2750
+2850
+2950
+3050
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+150
+12.25" PHASE
+WIPER TRIP
+WIPER TRIP
+SHORT TRIP
+POOH FOR BIT CHANGE
+POOH FOR CASING
+POOH FOR BIT CHANGE
+WIPER TRIP
+POOH FOR CASING
+WIPER TRIP
+POOH FOR BIT CHANGE
+FLT PLOT
+)
+(ADAV
+66
+ WELL : AD# 
+(DEPTH: 262m - 3011m)
+17.5" PHASE
+8.5" PHASE
+Well TD: 3011mMDKB/ 
+2762.39mTVDKB
